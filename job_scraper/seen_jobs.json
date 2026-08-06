@@ -123,6 +123,7 @@
     "virtu-hw-8657286002": {"title": "2027 Internship - Hardware Engineer (FPGA)", "company": "Virtu Financial", "url": "https://job-boards.greenhouse.io/virtu/jobs/8657286002", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
     "etched-firmware": {"title": "Firmware Intern", "company": "Etched", "url": "https://jobs.ashbyhq.com/Etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
     "apple-hw-200606475": {"title": "Hardware Engineering Internships", "company": "Apple", "url": "https://jobs.apple.com/en-us/details/200606475-3810/hardware-engineering-internships", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "spacex-8621757002": {"title": "Summer 2027 Software Engineering Internship/Co-op", "company": "SpaceX", "url": "https://job-boards.greenhouse.io/spacex/jobs/8621757002", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"}
+    "spacex-8621757002": {"title": "Summer 2027 Software Engineering Internship/Co-op", "company": "SpaceX", "url": "https://job-boards.greenhouse.io/spacex/jobs/8621757002", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
+    "bae-RF-127601BR": {"title": "RF Engineering Intern III (Summer 2027, Hybrid)", "company": "BAE Systems", "url": "https://jobs.baesystems.com/global/en/job/127601BR/Radio-frequency-RF-Engineering-Intern-III-Summer-2027-Hybrid", "first_seen": "2026-08-06", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"}
   }
 }
