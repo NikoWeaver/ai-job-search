@@ -1,153 +1,1354 @@
 {
   "seen": {
-    "4414930050": {"title": "Product Engineering Intern", "company": "Parker Hannifin", "url": "https://www.linkedin.com/jobs/view/product-engineering-intern-at-parker-hannifin-4414930050", "first_seen": "2026-07-22", "fit": "high", "status": "new", "portal": "linkedin-search"},
-    "4427860494": {"title": "Engineering Intern - Mission Operations", "company": "York Space Systems", "url": "https://www.linkedin.com/jobs/view/engineering-intern-sv-engineering-mission-operations-at-york-space-systems-4427860494", "first_seen": "2026-07-22", "fit": "medium", "status": "new", "portal": "linkedin-search"},
-    "4436672400": {"title": "Drone Systems Engineering Intern", "company": "DMR Technologies", "url": "https://www.linkedin.com/jobs/view/drone-systems-engineering-intern-at-dmr-technologies-4436672400", "first_seen": "2026-07-22", "fit": "medium", "status": "new", "portal": "linkedin-search"},
-    "4442798158": {"title": "Robotics Engineer Intern - Test & Validation", "company": "Contoro Robotics", "url": "https://www.linkedin.com/jobs/view/robotics-engineer-intern-test-validation-at-contoro-robotics-4442798158", "first_seen": "2026-07-22", "fit": "medium", "status": "new", "portal": "linkedin-search"},
-    "4423952824": {"title": "Research Intern - Robotic Hardware, Simulation and Data", "company": "Applied Intuition", "url": "https://www.linkedin.com/jobs/view/4423952824", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4409673662": {"title": "Long-term Internship - Engineering", "company": "Airbus Aircraft", "url": "https://www.linkedin.com/jobs/view/long-term-internship-engineering-at-airbus-aircraft-4409673662", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4439340857": {"title": "Intern, Power Electronics Controls Engineer", "company": "Heron Power", "url": "https://www.linkedin.com/jobs/view/intern-power-electronics-controls-engineer-at-heron-power-4439340857", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4419576703": {"title": "Systems Engineering Intern", "company": "PlusAI", "url": "https://www.linkedin.com/jobs/view/systems-engineering-intern-at-plusai-4419576703", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4420171064": {"title": "Engineer Intern", "company": "Curtiss-Wright Corporation", "url": "https://www.linkedin.com/jobs/view/engineer-intern-at-curtiss-wright-corporation-4420171064", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4422036462": {"title": "Engineering Intern", "company": "Sulzer", "url": "https://www.linkedin.com/jobs/view/engineering-intern-at-sulzer-4422036462", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4422147440": {"title": "Intern", "company": "ONICON Incorporated", "url": "https://www.linkedin.com/jobs/view/intern-at-onicon-incorporated-4422147440", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4414644388": {"title": "Mechanical Engineer Intern", "company": "BW Converting", "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-intern-at-bw-converting-4414644388", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4443590088": {"title": "Student Intern - Engineering", "company": "QC Conveyors", "url": "https://www.linkedin.com/jobs/view/student-intern-engineering-at-qc-conveyors-4443590088", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4442901014": {"title": "Student Intern - Engineering", "company": "Duravant", "url": "https://www.linkedin.com/jobs/view/student-intern-engineering-at-duravant-4442901014", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4442747336": {"title": "Mechanical Engineer Intern", "company": "Mueller Water Products", "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-intern-at-mueller-water-products-4442747336", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4440453082": {"title": "Co-Op Engineering Student", "company": "SLB", "url": "https://www.linkedin.com/jobs/view/co-op-engineering-student-at-slb-4440453082", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4439085805": {"title": "Engineering Intern", "company": "Fort Recovery Industries", "url": "https://www.linkedin.com/jobs/view/engineering-intern-at-fort-recovery-industries-inc-4439085805", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4434726929": {"title": "Engineer - Flight Sciences", "company": "Bombardier", "url": "https://www.linkedin.com/jobs/view/engineer-flight-sciences-at-bombardier-4434726929", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4438724682": {"title": "Entry Level Structural Analysis Engineer", "company": "Boeing", "url": "https://www.linkedin.com/jobs/view/entry-level-structural-analysis-engineer-at-boeing-4438724682", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4442285459": {"title": "Intern, Engineering", "company": "Barnes Aerospace", "url": "https://www.linkedin.com/jobs/view/intern-engineering-indir-at-barnes-aerospace-4442285459", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4440625886": {"title": "Aerospace Engineer", "company": "Titan Dynamics Inc", "url": "https://www.linkedin.com/jobs/view/aerospace-engineer-at-titan-dynamics-inc-4440625886", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4418815105": {"title": "Engineer (Formula SAE Track)", "company": "Icarus", "url": "https://www.linkedin.com/jobs/view/engineer-formula-sae-track-at-icarus-4418815105", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4428214482": {"title": "M&P Engineer", "company": "Airbus Aircraft", "url": "https://www.linkedin.com/jobs/view/m-p-engineer-at-airbus-aircraft-4428214482", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4419647347": {"title": "Project Engineer", "company": "Crissair Inc", "url": "https://www.linkedin.com/jobs/view/project-engineer-at-crissair-inc-4419647347", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4438728557": {"title": "Entry Level Structures Design Engineer", "company": "Boeing", "url": "https://www.linkedin.com/jobs/view/entry-level-structures-design-engineer-at-boeing-4438728557", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4364927345": {"title": "Design Engineer", "company": "Kratos Defense", "url": "https://www.linkedin.com/jobs/view/design-engineer-at-kratos-defense-and-security-solutions-4364927345", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4443413553": {"title": "Electronics Intern-Robotics (2026 Fall)", "company": "Anyware Robotics", "url": "https://www.linkedin.com/jobs/view/electronics-intern-robotics-2026-fall-at-anyware-robotics-4443413553", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4439098382": {"title": "AI Intern, Robotics", "company": "ndimensions labs", "url": "https://www.linkedin.com/jobs/view/ai-intern-robotics-at-ndimensions-labs-4439098382", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4443371701": {"title": "Robotics Perception Engineer Intern", "company": "Climactic", "url": "https://www.linkedin.com/jobs/view/robotics-perception-engineer-intern-at-climactic-4443371701", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4443378496": {"title": "Robot Learning Engineer Intern", "company": "Climactic", "url": "https://www.linkedin.com/jobs/view/robot-learning-engineer-intern-at-climactic-4443378496", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4443064025": {"title": "Amazon Robotics 2026 Supply Chain Intern", "company": "Amazon", "url": "https://www.linkedin.com/jobs/view/amazon-robotics-2026-supply-chain-intern-co-op-robotics-supply-chain-at-amazon-4443064025", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4382957557": {"title": "Robotics AI Algorithm R&D Summer 2026", "company": "Magna International", "url": "https://www.linkedin.com/jobs/view/robotics-ai-algorithm-r-d-summer-2026-at-magna-international-4382957557", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4443053304": {"title": "Amazon Robotics 2026 Supply Chain Intern (North Reading)", "company": "Amazon", "url": "https://www.linkedin.com/jobs/view/amazon-robotics-2026-supply-chain-intern-co-op-robotics-supply-chain-at-amazon-4443053304", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4441913347": {"title": "Internship Software Engineer Energy Fall 2026", "company": "Tesla", "url": "https://www.linkedin.com/jobs/view/internship-software-engineer-energy-engineering-fall-2026-at-tesla-4441913347", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4411731022": {"title": "Electronics Co-Op Fall 2026", "company": "Regal Rexnord", "url": "https://www.linkedin.com/jobs/view/electronics-co-op-fall-2026-at-regal-rexnord-4411731022", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4435984389": {"title": "Electrical Hardware Engineering Intern", "company": "DMR Technologies", "url": "https://www.linkedin.com/jobs/view/electrical-hardware-engineering-intern-at-dmr-technologies-4435984389", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4435986003": {"title": "Embedded Systems Engineering Intern", "company": "DMR Technologies", "url": "https://www.linkedin.com/jobs/view/embedded-systems-engineering-intern-at-dmr-technologies-4435986003", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4290499494": {"title": "Intern Co-op Refining EE Fall 2026", "company": "Marathon Petroleum", "url": "https://www.linkedin.com/jobs/view/intern-co-op-refining-electrical-engineering-fall-2026-at-marathon-petroleum-corporation-4290499494", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4364966054": {"title": "Intern Co-op Refining EE Spring 2027", "company": "Marathon Petroleum", "url": "https://www.linkedin.com/jobs/view/intern-co-op-refining-electrical-engineering-spring-2027-at-marathon-petroleum-corporation-4364966054", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4441418805": {"title": "Electrical Co-op Intern", "company": "Oglethorpe Power Corporation", "url": "https://www.linkedin.com/jobs/view/electrical-co-op-intern-at-oglethorpe-power-corporation-4441418805", "first_seen": "2026-07-22", "fit": "low", "status": "skipped", "portal": "linkedin-search"},
-    "4434662675": {"title": "Hardware Engineer Intern - Summer 2027", "company": "IMC Trading", "url": "https://www.linkedin.com/jobs/view/hardware-engineer-intern-summer-2027-at-imc-trading-4434662675", "first_seen": "2026-07-23", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "4390686579": {"title": "Nuclear Engineering Internship Summer 2027", "company": "Naval Nuclear Laboratory", "url": "https://www.linkedin.com/jobs/view/nuclear-engineering-internship-summer-2027-at-naval-nuclear-laboratory-fmp-4390686579", "first_seen": "2026-07-23", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "4427714090": {"title": "Overhead Transmission Line Design Engineering Intern - Summer 2027", "company": "WSP", "url": "https://www.linkedin.com/jobs/view/overhead-transmission-line-design-engineering-intern-summer-2027-at-wsp-in-the-u-s-4427714090", "first_seen": "2026-07-23", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "4426185180": {"title": "Software Engineering Intern (Summer 2027)", "company": "CircleBack", "url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-circleback-4426185180", "first_seen": "2026-07-23", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "4427702036": {"title": "Software Engineering Intern, Summer 2027", "company": "Google", "url": "https://in.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-google-4427702036", "first_seen": "2026-07-23", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "4394378255": {"title": "Manufacturing Engineering Intern (Summer 2026)(Onsite)", "company": "Collins Aerospace", "url": "https://www.linkedin.com/jobs/view/manufacturing-engineering-intern-summer-2026-onsite-at-collins-aerospace-4394378255", "first_seen": "2026-07-23", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "gh-anduril-5153187007": {"title": "2027 Mechanical Engineer Intern", "company": "Anduril Industries", "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5153187007", "first_seen": "2026-07-24", "fit": "high", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "gh-anduril-5153218007": {"title": "2027 Manufacturing Engineer Intern", "company": "Anduril Industries", "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5153218007", "first_seen": "2026-07-24", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "4427140818": {"title": "2027 Software Engineer Intern", "company": "Anduril Industries", "url": "https://www.linkedin.com/jobs/view/2027-software-engineer-intern-at-anduril-industries-4427140818", "first_seen": "2026-07-24", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "4415981717": {"title": "Mechanical Engineering Intern Fall 2026", "company": "Rocket Lab", "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-fall-2026-at-rocket-lab-4415981717", "first_seen": "2026-07-24", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "4296314034": {"title": "Mechanical Engineering Intern Summer 2026", "company": "Rocket Lab", "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-summer-2026-at-rocket-lab-4296314034", "first_seen": "2026-07-24", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "4334824409": {"title": "Amazon Robotics - Hardware Engineer Intern Summer 2026", "company": "Amazon", "url": "https://www.linkedin.com/jobs/view/amazon-robotics-hardware-engineer-intern-summer-2026-at-amazon-4334824409", "first_seen": "2026-07-24", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "4420686859": {"title": "Software Engineering Intern", "company": "Joby Aviation", "url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-joby-aviation-4420686859", "first_seen": "2026-07-24", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "ge-unison-R5037097": {"title": "Engineering Intern (Summer 2027)", "company": "Unison / GE Aerospace", "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027", "first_seen": "2026-07-25", "fit": "high", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "soeffects-ee-2027": {"title": "Electrical Engineering Intern (Summer 2027)", "company": "Second Order Effects", "url": "https://jobs.gem.com/soeffects/am9icG9zdDqLIuZagE8SU-HqhGf7TGYo", "first_seen": "2026-07-25", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "4410096868": {"title": "Spring 2027 Internship - Engineering", "company": "Stoke Space", "url": "https://www.linkedin.com/jobs/view/spring-2027-internship-engineering-at-stoke-space-4410096868", "first_seen": "2026-07-25", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "4410203767": {"title": "Spring 2027 Internship - Software", "company": "Stoke Space", "url": "https://www.linkedin.com/jobs/view/spring-2027-internship-software-at-stoke-space-4410203767", "first_seen": "2026-07-25", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "4372150027": {"title": "Robotics Software Intern - Autonomy", "company": "Boston Dynamics", "url": "https://www.linkedin.com/jobs/view/robotics-software-intern-autonomy-at-boston-dynamics-4372150027", "first_seen": "2026-07-25", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "gh-bae-software-2027": {"title": "Software Engineering Intern I (Summer 2027)", "company": "BAE Systems", "url": "https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027", "first_seen": "2026-07-25", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "gh-tsmc-2027": {"title": "Engineering Intern (Summer 2027)", "company": "TSMC Arizona", "url": "https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/", "first_seen": "2026-07-25", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "gh-blueorigin-spring2027-mfg": {"title": "Spring 2027 Manufacturing Engineering Internship - Undergraduate", "company": "Blue Origin", "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Spring-2027-Manufacturing-Engineering-Internship---Undergraduate_R66348", "first_seen": "2026-07-25", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "gh-anduril-5148101007": {"title": "2027 Electrical Engineer Intern", "company": "Anduril Industries", "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148101007", "first_seen": "2026-07-26", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "ta-gnc-5047264007": {"title": "GNC Intern", "company": "True Anomaly", "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5047264007", "first_seen": "2026-07-26", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "ta-avionics-5192738007": {"title": "Avionics and Electrical Engineering Intern", "company": "True Anomaly", "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5192738007", "first_seen": "2026-07-26", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "astranis-me-fall2026": {"title": "Mechanical Engineer Intern (Fall 2026)", "company": "Astranis", "url": "https://job-boards.greenhouse.io/astranis/jobs/4677541006", "first_seen": "2026-07-26", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "zipline-fte-fall2026": {"title": "Flight Test Engineer Intern (Fall 2026)", "company": "Zipline", "url": "https://www.zipline.com/open-roles?gh_jid=7767622003", "first_seen": "2026-07-26", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "figureai-ee-fall2026": {"title": "Electrical Engineering Intern (Fall 2026)", "company": "Figure AI", "url": "https://job-boards.greenhouse.io/figureai/jobs/4676467006", "first_seen": "2026-07-26", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "ng-R10194292": {"title": "2027 Intern Test & Evaluation", "company": "Northrop Grumman", "url": "https://jobs.northropgrumman.com/careers/job/1340071917246-2027-intern-test-evaluation-united-states-california-palmdale?domain=ngc.com", "first_seen": "2026-07-27", "fit": "high", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "ng-1340068846324": {"title": "2027 Intern Test & Evaluation", "company": "Northrop Grumman", "url": "https://jobs.northropgrumman.com/careers/job/1340068846324-2027-intern-test-evaluation-united-states-florida-melbourne?domain=ngc.com", "first_seen": "2026-07-27", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "ge-R5029793": {"title": "Engines Engineering Intern – US – Summer 2027 - Returning Students", "company": "GE Aerospace", "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5029793EXTERNALENGLOBAL/Engines-Engineering-Intern-US-Summer-2027-Returning-Students", "first_seen": "2026-07-27", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "ge-R5030177": {"title": "Systems Engineering Intern - ME/AE (Electric Power) – Summer 2027 - Returning Students", "company": "GE Aerospace", "url": "https://careers.geaerospace.com/global/en/job/R5030177/Systems-Engineering-Intern-Mechanical-Aerospace-Engineering-Electric-Power-US-Summer-2027-Returning-Students", "first_seen": "2026-07-27", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "ge-R5029659": {"title": "Manufacturing Engineering Intern – US – Summer 2027", "company": "GE Aerospace", "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5029659EXTERNALENGLOBAL/Manufacturing-Engineering-Intern-US-Summer-2027", "first_seen": "2026-07-27", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "ge-R5030174": {"title": "Systems Engineering Intern - EE/CS (Electric Power) – Summer 2027 - Returning Students", "company": "GE Aerospace", "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030174EXTERNALENGLOBAL/Systems-Engineering-Intern-Electrical-Engineering-Computer-Engineering-Science-Electric-Power-US-Summer-2027-Returning-Students", "first_seen": "2026-07-27", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "ge-R5030079": {"title": "Manufacturing Engineering Intern – US – Summer 2027 - Returning Students", "company": "GE Aerospace", "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030079EXTERNALENGLOBAL/Manufacturing-Engineering-Intern-US-Summer-2027-Returning-Students", "first_seen": "2026-07-27", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "ge-R5030092": {"title": "Digital Technology Intern – US – Summer 2027 - Returning Students", "company": "GE Aerospace", "url": "https://careers.geaerospace.com/global/en/job/R5030092/Digital-Technology-Intern-US-Summer-2027-Returning-Students", "first_seen": "2026-07-27", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "griffon-aero-3953902": {"title": "Mechanical and Aerospace Engineering Intern", "company": "Griffon Aerospace", "url": "https://griffonaerospace.applicantpro.com/iframe/mobile/3953902.html", "first_seen": "2026-07-28", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "odin-dynamics-summer-2027": {"title": "Summer Engineering Intern", "company": "Odin Dynamics", "url": "https://jobs.ashbyhq.com/odin-dynamics/9b30430d-86e4-4c3f-93d8-f06de09b1f61", "first_seen": "2026-07-28", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "gh-anduril-4829641007": {"title": "Systems Engineer Intern", "company": "Anduril Industries", "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4829641007", "first_seen": "2026-07-28", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "gh-anduril-4829831007": {"title": "Automations/Control Systems Engineer Intern", "company": "Anduril Industries", "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4829831007", "first_seen": "2026-07-28", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "neuralink-7666761003": {"title": "Manufacturing Intern, Surgery & Robotics", "company": "Neuralink", "url": "https://boards.greenhouse.io/neuralink/jobs/7666761003", "first_seen": "2026-07-28", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "nightwing-JR101733": {"title": "Software / Hardware Engineering Intern", "company": "Nightwing", "url": "https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733", "first_seen": "2026-07-29", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "janestreet-8624440002": {"title": "Hardware Engineer (FPGA/ASIC) Intern", "company": "Jane Street", "url": "https://www.janestreet.com/join-jane-street/position/8624440002/", "first_seen": "2026-07-29", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "akuna-8018880": {"title": "Hardware Engineer Intern", "company": "Akuna Capital", "url": "https://akunacapital.com/careers/job/8018880/", "first_seen": "2026-07-29", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "haast-autonomous-coop": {"title": "Spring/Summer Engineering Co-op", "company": "Haast Autonomous", "url": "https://jobs.ashbyhq.com/haastautonomous/1e75b376-3278-4e23-a339-61b5be155763", "first_seen": "2026-07-30", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "gh-anduril-5136984007": {"title": "2027 Early Career Mechanical Engineer", "company": "Anduril Industries", "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5136984007", "first_seen": "2026-07-30", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "ng-1340072621686": {"title": "2027 Entry Level Engineering Opportunities - California", "company": "Northrop Grumman", "url": "https://jobs.northropgrumman.com/careers/apply?pid=1340072621686&domain=ngc.com", "first_seen": "2026-07-30", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "archer56-7637486003": {"title": "Mechanical Engineer Intern (Summer 2026)", "company": "Archer Aviation", "url": "https://job-boards.greenhouse.io/archer56/jobs/7637486003", "first_seen": "2026-07-30", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "beyondreach-me-summer-2027": {"title": "Mechanical Engineer Intern (Summer 2027)", "company": "Beyond Reach Labs (YC W26)", "url": "https://jobs.ashbyhq.com/beyondreachlabs/3ca9915e-b63f-4b26-bc20-cc8ae6d14d08", "first_seen": "2026-07-31", "fit": "high", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "haast-summer-2027-intern": {"title": "Summer 2027 Engineering Internship", "company": "Haast Autonomous", "url": "https://jobs.ashbyhq.com/haastautonomous/5e3667c4-3d04-40d9-87d1-6b7fe6539e2d", "first_seen": "2026-07-31", "fit": "high", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "beta-tech-vermont-2627": {"title": "2026-2027 BETA Internship (Vermont)", "company": "BETA Technologies", "url": "https://jobs.lever.co/beta/a3cf2927-7c4a-459d-8296-28034dccbee8", "first_seen": "2026-07-31", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "beta-tech-nc-2627": {"title": "2026-2027 BETA Internship (Raleigh, North Carolina)", "company": "BETA Technologies", "url": "https://jobs.lever.co/beta/ebe2407c-7f49-464e-81c3-ef5ebe8873b7", "first_seen": "2026-07-31", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "rtx-me-s2027-mckinney": {"title": "Mechanical Engineering Intern (Summer 2027)", "company": "RTX / Raytheon", "url": "https://bebee.com/us/jobs/mechanical-engineering-intern-summer-2027-rtx-mckinney--fj-2284911830", "first_seen": "2026-08-01", "fit": "high", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "blueorigin-spring2027-structural-ug": {"title": "Spring 2027 Structural & Mechanical Engineering Internship - Undergraduate", "company": "Blue Origin", "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Structural---Mechanical-Engineering-Internship---Undergraduate_R66356", "first_seen": "2026-08-01", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "blueorigin-spring2027-test-eng-grad": {"title": "Spring 2027 Test Engineering Internship - Graduate", "company": "Blue Origin", "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Test-Engineering-Internship---Graduate_R66358", "first_seen": "2026-08-01", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "field-ai-rugged-compute-federal": {"title": "Mechanical Engineering Intern: Rugged Compute Payloads (Federal)", "company": "FieldAI", "url": "https://jobs.lever.co/field-ai/1e9b66dc-7b55-4690-b48e-d093669cca9a", "first_seen": "2026-08-02", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "4441426827": {"title": "2027 Gas Turbine Product Engineering Internship", "company": "Solar Turbines (Caterpillar)", "url": "https://www.linkedin.com/jobs/view/2027-gas-turbine-product-engineering-internship-at-solar-turbines-4441426827", "first_seen": "2026-08-03", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "solar-turbines-solutions-2027": {"title": "2027 Internship - Solutions Platforms Engineered", "company": "Solar Turbines (Caterpillar)", "url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines", "first_seen": "2026-08-03", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "solar-turbines-tmp-2027": {"title": "2027 Internship TMP Tech & NPI", "company": "Solar Turbines (Caterpillar)", "url": "https://www.ziprecruiter.com/c/Solar-Turbines/Job/2027-Internship-TMP-Tech-&-NPI/-in-San-Diego,CA?jid=2050953ad3f4f171", "first_seen": "2026-08-03", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "ge-R5029621": {"title": "Engines Engineering Intern – US – Summer 2027", "company": "GE Aerospace", "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1", "first_seen": "2026-08-04", "fit": "high", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "ng-2027-sw-1340072789981": {"title": "2027 Intern Software Engineer", "company": "Northrop Grumman", "url": "https://jobs.northropgrumman.com/careers/job/1340072789981-2027-intern-software-engineer-united-states-florida-melbourne?domain=ngc.com", "first_seen": "2026-08-04", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "boeing-2027-pm-98681019360": {"title": "Boeing Summer 2027 Internship Program (Paid) - Program Management", "company": "Boeing", "url": "https://jobs.boeing.com/job/arlington/boeing-summer-2027-internship-program-paid-program-management/185/98681019360", "first_seen": "2026-08-04", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "koch-flinthills-me-s2027": {"title": "Summer 2027 Mechanical Engineering Intern", "company": "Koch / Flint Hills Resources", "url": "https://jobright.ai/jobs/info/6a718c87e2b7476e7b20e792", "first_seen": "2026-08-04", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "rs-me-7892232002": {"title": "2027 Mechanical Engineer Intern", "company": "Relativity Space", "url": "https://boards.greenhouse.io/rsinternboard/jobs/7892232002", "first_seen": "2026-08-05", "fit": "high", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "spacex-8621740002": {"title": "Summer 2027 Engineering Internship/Co-op", "company": "SpaceX", "url": "https://job-boards.greenhouse.io/spacex/jobs/8621740002", "first_seen": "2026-08-05", "fit": "high", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "bd-me-R2475": {"title": "Mechanical Engineering Intern", "company": "Boston Dynamics", "url": "https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Mechanical-Engineering-Intern_R2475", "first_seen": "2026-08-05", "fit": "high", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "nasa-jpl-summer-2027": {"title": "JPL Summer Internship Program 2027", "company": "NASA JPL", "url": "https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program/", "first_seen": "2026-08-05", "fit": "high", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "rivian-me-simplify": {"title": "Mechanical Engineering Internships", "company": "Rivian", "url": "https://simplify.jobs/p/bc498080-746e-45c8-bafd-e5b3d374f29e/Mechanical-Engineering-Internships", "first_seen": "2026-08-05", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "apple-hw-ug-200663981": {"title": "Hardware Undergrad Engineering Internships", "company": "Apple", "url": "https://jobs.apple.com/en-us/details/200663981-3810/hardware-undergrad-engineering-internships", "first_seen": "2026-08-05", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "cat-r0000380501": {"title": "2027 Engineering Corporate Internship Program – Materials", "company": "Caterpillar", "url": "https://careers.caterpillar.com/en/jobs/r0000380501/2027-engineering-corporate-internship-program-materials/", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "4423171515": {"title": "Spring 2027 Aerospace Systems Engineering Internship (Undergraduate)", "company": "Blue Origin", "url": "https://www.linkedin.com/jobs/view/spring-2027-aerospace-systems-engineering-internship-undergraduate-at-blue-origin-4423171515", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "4423186334": {"title": "Spring 2027 Electrical Systems Engineering Internship (Undergraduate)", "company": "Blue Origin", "url": "https://www.linkedin.com/jobs/view/spring-2027-electrical-systems-engineering-internship-undergraduate-at-blue-origin-4423186334", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "4423145521": {"title": "Spring 2027 Fluid Systems Engineering Internship (Graduate)", "company": "Blue Origin", "url": "https://www.linkedin.com/jobs/view/spring-2027-fluid-systems-engineering-internship-graduate-at-blue-origin-4423145521", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "4441253436": {"title": "Summer 2027 Aerospace & Defense Consulting Internship", "company": "Fairmont Consulting Group", "url": "https://www.linkedin.com/jobs/view/summer-2027-aerospace-defense-consulting-internship-at-fairmont-consulting-group-4441253436", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "blueorigin-spring2027-fluids-ug-R66292": {"title": "Spring 2027 Fluid Systems Engineering Internship (Undergraduate)", "company": "Blue Origin", "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Fluid-Systems-Engineering-Internship---Undergraduate_R66292", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "blueorigin-spring2027-gnc-ug-R66295": {"title": "Spring 2027 GNC Internship (Undergraduate)", "company": "Blue Origin", "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Guidance--Navigation---Controls-Internship---Undergraduate_R66295", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "blueorigin-spring2027-test-ug-R66360": {"title": "Spring 2027 Test Engineering Internship (Undergraduate)", "company": "Blue Origin", "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Test-Engineering-Internship---Undergraduate_R66360", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "nvidia-robotics-893393991136": {"title": "Robotics Research Intern - 2026/2027", "company": "NVIDIA", "url": "https://jobs.nvidia.com/careers/job/893393991136", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "personaai-ml-manipulation": {"title": "Machine Learning Intern - Manipulation", "company": "Persona AI", "url": "https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "rendezvous-avionics-4329118009": {"title": "Avionics Engineering Intern (Spring 2027)", "company": "Rendezvous Robotics", "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329118009", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "drw-fpga-3484423": {"title": "FPGA Intern", "company": "DRW", "url": "https://www.drw.com/work-at-drw/listings/fpga-intern-3484423", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "virtu-hw-8657286002": {"title": "2027 Internship - Hardware Engineer (FPGA)", "company": "Virtu Financial", "url": "https://job-boards.greenhouse.io/virtu/jobs/8657286002", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "etched-firmware": {"title": "Firmware Intern", "company": "Etched", "url": "https://jobs.ashbyhq.com/Etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "apple-hw-200606475": {"title": "Hardware Engineering Internships", "company": "Apple", "url": "https://jobs.apple.com/en-us/details/200606475-3810/hardware-engineering-internships", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "spacex-8621757002": {"title": "Summer 2027 Software Engineering Internship/Co-op", "company": "SpaceX", "url": "https://job-boards.greenhouse.io/spacex/jobs/8621757002", "first_seen": "2026-08-05", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "bae-RF-127601BR": {"title": "RF Engineering Intern III (Summer 2027, Hybrid)", "company": "BAE Systems", "url": "https://jobs.baesystems.com/global/en/job/127601BR/Radio-frequency-RF-Engineering-Intern-III-Summer-2027-Hybrid", "first_seen": "2026-08-06", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "lucidbots-5124654008": {"title": "Summer Engineering Intern", "company": "Lucid Bots", "url": "https://job-boards.greenhouse.io/lucidbots/jobs/5124654008", "first_seen": "2026-08-07", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "boeing-2027-qe-98720781296": {"title": "Boeing Summer 2027 Internship Program (Paid) - Quality Engineering Intern", "company": "Boeing", "url": "https://jobs.boeing.com/job/seattle/boeing-summer-2027-internship-program-paid-quality-engineering-intern/185/98720781296", "first_seen": "2026-08-07", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "boeing-2027-sc-98720778608": {"title": "Boeing Summer 2027 Internship Program (Paid) - Supply Chain", "company": "Boeing", "url": "https://jobs.boeing.com/job/everett/boeing-summer-2027-internship-program-paid-supply-chain/185/98720778608", "first_seen": "2026-08-07", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "boeing-2027-da-98720782192": {"title": "Boeing Summer 2027 Internship Program (Paid) - Data Analytics Intern", "company": "Boeing", "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1", "first_seen": "2026-08-07", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "boeing-2027-gov-98720778000": {"title": "Boeing Summer 2027 Internship Program (Paid) - Government Operations and Sustainability", "company": "Boeing", "url": "https://jobs.boeing.com/job/arlington/boeing-summer-2027-internship-program-paid-government-operations-and-sustainability/185/98720778000", "first_seen": "2026-08-07", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "boeing-2027-pm2-98710337328": {"title": "Boeing Summer 2027 Internship Program (Paid) - Program Management", "company": "Boeing", "url": "https://jobs.boeing.com/job/arlington/boeing-summer-2027-internship-program-paid-program-management/185/98710337328", "first_seen": "2026-08-07", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "spacex-8621763002": {"title": "Summer 2027 Silicon Engineering Internship/Co-op", "company": "SpaceX", "url": "https://job-boards.greenhouse.io/spacex/jobs/8621763002", "first_seen": "2026-08-08", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "spacex-civstruct-88627363": {"title": "Summer 2027 Civil/Structural Engineering Internship", "company": "SpaceX", "url": "https://jobs.longjourney.vc/companies/spacex/jobs/88627363-summer-2027-civil-structural-engineering-internship", "first_seen": "2026-08-08", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "joby-flighttest-5297": {"title": "Flight Test Intern (Dec 2026 - Feb 2027)", "company": "Joby Aviation", "url": "https://careers-jobyaviation.icims.com/jobs/5297/flight-test-intern-(dec-2026-feb-2027)/job", "first_seen": "2026-08-08", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "lm-91876102544": {"title": "Aeronautics Engineer (Propulsion/PTMS) - Intern", "company": "Lockheed Martin", "url": "https://www.lockheedmartinjobs.com/job/palmdale/aeronautics-engineer-propulsion-ptms-intern/694/91876102544", "first_seen": "2026-08-09", "fit": "high", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "lm-91344196640": {"title": "Aeronautical Engineer (Propulsion) - Intern", "company": "Lockheed Martin", "url": "https://www.lockheedmartinjobs.com/job/fort-worth/aeronautical-engineer-propulsion-intern/694/91344196640", "first_seen": "2026-08-09", "fit": "high", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "lm-91592743328": {"title": "Mechanical Engineer Intern (Space / FBM Reentry)", "company": "Lockheed Martin", "url": "https://www.lockheedmartinjobs.com/job/littleton/mechanical-engineer-intern/694/91592743328", "first_seen": "2026-08-09", "fit": "high", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "lm-90622530992": {"title": "Propulsion Design Engineering Intern", "company": "Lockheed Martin", "url": "https://www.lockheedmartinjobs.com/job/stratford/propulsion-design-engineering-intern/694/90622530992", "first_seen": "2026-08-09", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "ng-1340073486900": {"title": "2027 Intern Vehicle Engineering", "company": "Northrop Grumman", "url": "https://jobs.northropgrumman.com/careers/job/1340073486900-2027-intern-vehicle-engineering-united-states-florida-melbourne", "first_seen": "2026-08-09", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "ng-1340073448706": {"title": "2027 Intern – Test & Evaluation Engineer", "company": "Northrop Grumman", "url": "https://jobs.northropgrumman.com/careers/job/1340073448706", "first_seen": "2026-08-09", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "ng-R10241581": {"title": "2027 Intern – Test & Evaluation Engineer (R10241581)", "company": "Northrop Grumman", "url": "https://jobs.northropgrumman.com/careers/job/1340073097881", "first_seen": "2026-08-09", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "4449750164": {"title": "Mechanical Engineering Intern - Nuclear (Summer 2027)", "company": "Sargent Lundy", "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-nuclear-summer-2027-at-sargent-lundy-4449750164", "first_seen": "2026-08-09", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "4445525201": {"title": "Summer 2027 Intern - Hardware Engineering", "company": "WD (Western Digital)", "url": "https://www.linkedin.com/jobs/view/summer-2027-intern-hardware-engineering-at-wd-4445525201", "first_seen": "2026-08-09", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "ng-1340073325729": {"title": "2027 Intern Software Engineer", "company": "Northrop Grumman", "url": "https://jobs.northropgrumman.com/careers/job/1340073325729-2027-intern-software-engineer-united-states-florida-melbourne", "first_seen": "2026-08-09", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "rtx-me-s2027-marlborough": {"title": "Mechanical Engineer Intern - Radar Systems (Summer 2027)", "company": "RTX / Raytheon", "url": "https://simplify.jobs/p/fc15b81d-7479-4606-9419-61a162fcc61c/Mechanical-Engineer-Intern", "first_seen": "2026-08-10", "fit": "high", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "rtx-me-s2027-thermal": {"title": "Mechanical Engineering Intern - Thermal Simulation (Summer 2027)", "company": "RTX / Raytheon", "url": "https://jobright.ai/jobs/info/6a750cb6972ac843c6998bfb", "first_seen": "2026-08-10", "fit": "high", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "boeing-2027-eng-JR2026505093": {"title": "Boeing Summer 2027 Internship Program - Engineering", "company": "Boeing", "url": "https://boeing.wd1.myworkdayjobs.com/en-US/INTERN/job/Boeing-Summer-2027-Internship-Program--Paid----Engineering_JR2026505093", "first_seen": "2026-08-10", "fit": "medium", "status": "new", "portal": "linkedin-websearch-fallback"},
-    "4451057545": {"title": "Raytheon Electrical Engineering Intern (Summer 2027)", "company": "RTX / Raytheon", "url": "https://www.linkedin.com/jobs/view/raytheon-electrical-engineering-intern-summer-2027-onsite-at-raytheon-4451057545", "first_seen": "2026-08-10", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"},
-    "blueorigin-spring2027-eng-ug-R69064": {"title": "Spring 2027 Engineering Intern - Undergraduate", "company": "Blue Origin", "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027--Engineering-Intern---Undergraduate_R69064", "first_seen": "2026-08-10", "fit": "low", "status": "skipped", "portal": "linkedin-websearch-fallback"}
+    "4414930050": {
+      "title": "Product Engineering Intern",
+      "company": "Parker Hannifin",
+      "url": "https://www.linkedin.com/jobs/view/product-engineering-intern-at-parker-hannifin-4414930050",
+      "first_seen": "2026-07-22",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "4427860494": {
+      "title": "Engineering Intern - Mission Operations",
+      "company": "York Space Systems",
+      "url": "https://www.linkedin.com/jobs/view/engineering-intern-sv-engineering-mission-operations-at-york-space-systems-4427860494",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "4436672400": {
+      "title": "Drone Systems Engineering Intern",
+      "company": "DMR Technologies",
+      "url": "https://www.linkedin.com/jobs/view/drone-systems-engineering-intern-at-dmr-technologies-4436672400",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "4442798158": {
+      "title": "Robotics Engineer Intern - Test & Validation",
+      "company": "Contoro Robotics",
+      "url": "https://www.linkedin.com/jobs/view/robotics-engineer-intern-test-validation-at-contoro-robotics-4442798158",
+      "first_seen": "2026-07-22",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "4423952824": {
+      "title": "Research Intern - Robotic Hardware, Simulation and Data",
+      "company": "Applied Intuition",
+      "url": "https://www.linkedin.com/jobs/view/4423952824",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4409673662": {
+      "title": "Long-term Internship - Engineering",
+      "company": "Airbus Aircraft",
+      "url": "https://www.linkedin.com/jobs/view/long-term-internship-engineering-at-airbus-aircraft-4409673662",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4439340857": {
+      "title": "Intern, Power Electronics Controls Engineer",
+      "company": "Heron Power",
+      "url": "https://www.linkedin.com/jobs/view/intern-power-electronics-controls-engineer-at-heron-power-4439340857",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4419576703": {
+      "title": "Systems Engineering Intern",
+      "company": "PlusAI",
+      "url": "https://www.linkedin.com/jobs/view/systems-engineering-intern-at-plusai-4419576703",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4420171064": {
+      "title": "Engineer Intern",
+      "company": "Curtiss-Wright Corporation",
+      "url": "https://www.linkedin.com/jobs/view/engineer-intern-at-curtiss-wright-corporation-4420171064",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4422036462": {
+      "title": "Engineering Intern",
+      "company": "Sulzer",
+      "url": "https://www.linkedin.com/jobs/view/engineering-intern-at-sulzer-4422036462",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4422147440": {
+      "title": "Intern",
+      "company": "ONICON Incorporated",
+      "url": "https://www.linkedin.com/jobs/view/intern-at-onicon-incorporated-4422147440",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4414644388": {
+      "title": "Mechanical Engineer Intern",
+      "company": "BW Converting",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-intern-at-bw-converting-4414644388",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4443590088": {
+      "title": "Student Intern - Engineering",
+      "company": "QC Conveyors",
+      "url": "https://www.linkedin.com/jobs/view/student-intern-engineering-at-qc-conveyors-4443590088",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4442901014": {
+      "title": "Student Intern - Engineering",
+      "company": "Duravant",
+      "url": "https://www.linkedin.com/jobs/view/student-intern-engineering-at-duravant-4442901014",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4442747336": {
+      "title": "Mechanical Engineer Intern",
+      "company": "Mueller Water Products",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-intern-at-mueller-water-products-4442747336",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4440453082": {
+      "title": "Co-Op Engineering Student",
+      "company": "SLB",
+      "url": "https://www.linkedin.com/jobs/view/co-op-engineering-student-at-slb-4440453082",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4439085805": {
+      "title": "Engineering Intern",
+      "company": "Fort Recovery Industries",
+      "url": "https://www.linkedin.com/jobs/view/engineering-intern-at-fort-recovery-industries-inc-4439085805",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4434726929": {
+      "title": "Engineer - Flight Sciences",
+      "company": "Bombardier",
+      "url": "https://www.linkedin.com/jobs/view/engineer-flight-sciences-at-bombardier-4434726929",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4438724682": {
+      "title": "Entry Level Structural Analysis Engineer",
+      "company": "Boeing",
+      "url": "https://www.linkedin.com/jobs/view/entry-level-structural-analysis-engineer-at-boeing-4438724682",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4442285459": {
+      "title": "Intern, Engineering",
+      "company": "Barnes Aerospace",
+      "url": "https://www.linkedin.com/jobs/view/intern-engineering-indir-at-barnes-aerospace-4442285459",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4440625886": {
+      "title": "Aerospace Engineer",
+      "company": "Titan Dynamics Inc",
+      "url": "https://www.linkedin.com/jobs/view/aerospace-engineer-at-titan-dynamics-inc-4440625886",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4418815105": {
+      "title": "Engineer (Formula SAE Track)",
+      "company": "Icarus",
+      "url": "https://www.linkedin.com/jobs/view/engineer-formula-sae-track-at-icarus-4418815105",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4428214482": {
+      "title": "M&P Engineer",
+      "company": "Airbus Aircraft",
+      "url": "https://www.linkedin.com/jobs/view/m-p-engineer-at-airbus-aircraft-4428214482",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4419647347": {
+      "title": "Project Engineer",
+      "company": "Crissair Inc",
+      "url": "https://www.linkedin.com/jobs/view/project-engineer-at-crissair-inc-4419647347",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4438728557": {
+      "title": "Entry Level Structures Design Engineer",
+      "company": "Boeing",
+      "url": "https://www.linkedin.com/jobs/view/entry-level-structures-design-engineer-at-boeing-4438728557",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4364927345": {
+      "title": "Design Engineer",
+      "company": "Kratos Defense",
+      "url": "https://www.linkedin.com/jobs/view/design-engineer-at-kratos-defense-and-security-solutions-4364927345",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4443413553": {
+      "title": "Electronics Intern-Robotics (2026 Fall)",
+      "company": "Anyware Robotics",
+      "url": "https://www.linkedin.com/jobs/view/electronics-intern-robotics-2026-fall-at-anyware-robotics-4443413553",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4439098382": {
+      "title": "AI Intern, Robotics",
+      "company": "ndimensions labs",
+      "url": "https://www.linkedin.com/jobs/view/ai-intern-robotics-at-ndimensions-labs-4439098382",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4443371701": {
+      "title": "Robotics Perception Engineer Intern",
+      "company": "Climactic",
+      "url": "https://www.linkedin.com/jobs/view/robotics-perception-engineer-intern-at-climactic-4443371701",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4443378496": {
+      "title": "Robot Learning Engineer Intern",
+      "company": "Climactic",
+      "url": "https://www.linkedin.com/jobs/view/robot-learning-engineer-intern-at-climactic-4443378496",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4443064025": {
+      "title": "Amazon Robotics 2026 Supply Chain Intern",
+      "company": "Amazon",
+      "url": "https://www.linkedin.com/jobs/view/amazon-robotics-2026-supply-chain-intern-co-op-robotics-supply-chain-at-amazon-4443064025",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4382957557": {
+      "title": "Robotics AI Algorithm R&D Summer 2026",
+      "company": "Magna International",
+      "url": "https://www.linkedin.com/jobs/view/robotics-ai-algorithm-r-d-summer-2026-at-magna-international-4382957557",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4443053304": {
+      "title": "Amazon Robotics 2026 Supply Chain Intern (North Reading)",
+      "company": "Amazon",
+      "url": "https://www.linkedin.com/jobs/view/amazon-robotics-2026-supply-chain-intern-co-op-robotics-supply-chain-at-amazon-4443053304",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4441913347": {
+      "title": "Internship Software Engineer Energy Fall 2026",
+      "company": "Tesla",
+      "url": "https://www.linkedin.com/jobs/view/internship-software-engineer-energy-engineering-fall-2026-at-tesla-4441913347",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4411731022": {
+      "title": "Electronics Co-Op Fall 2026",
+      "company": "Regal Rexnord",
+      "url": "https://www.linkedin.com/jobs/view/electronics-co-op-fall-2026-at-regal-rexnord-4411731022",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4435984389": {
+      "title": "Electrical Hardware Engineering Intern",
+      "company": "DMR Technologies",
+      "url": "https://www.linkedin.com/jobs/view/electrical-hardware-engineering-intern-at-dmr-technologies-4435984389",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4435986003": {
+      "title": "Embedded Systems Engineering Intern",
+      "company": "DMR Technologies",
+      "url": "https://www.linkedin.com/jobs/view/embedded-systems-engineering-intern-at-dmr-technologies-4435986003",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4290499494": {
+      "title": "Intern Co-op Refining EE Fall 2026",
+      "company": "Marathon Petroleum",
+      "url": "https://www.linkedin.com/jobs/view/intern-co-op-refining-electrical-engineering-fall-2026-at-marathon-petroleum-corporation-4290499494",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4364966054": {
+      "title": "Intern Co-op Refining EE Spring 2027",
+      "company": "Marathon Petroleum",
+      "url": "https://www.linkedin.com/jobs/view/intern-co-op-refining-electrical-engineering-spring-2027-at-marathon-petroleum-corporation-4364966054",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4441418805": {
+      "title": "Electrical Co-op Intern",
+      "company": "Oglethorpe Power Corporation",
+      "url": "https://www.linkedin.com/jobs/view/electrical-co-op-intern-at-oglethorpe-power-corporation-4441418805",
+      "first_seen": "2026-07-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "4434662675": {
+      "title": "Hardware Engineer Intern - Summer 2027",
+      "company": "IMC Trading",
+      "url": "https://www.linkedin.com/jobs/view/hardware-engineer-intern-summer-2027-at-imc-trading-4434662675",
+      "first_seen": "2026-07-23",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4390686579": {
+      "title": "Nuclear Engineering Internship Summer 2027",
+      "company": "Naval Nuclear Laboratory",
+      "url": "https://www.linkedin.com/jobs/view/nuclear-engineering-internship-summer-2027-at-naval-nuclear-laboratory-fmp-4390686579",
+      "first_seen": "2026-07-23",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4427714090": {
+      "title": "Overhead Transmission Line Design Engineering Intern - Summer 2027",
+      "company": "WSP",
+      "url": "https://www.linkedin.com/jobs/view/overhead-transmission-line-design-engineering-intern-summer-2027-at-wsp-in-the-u-s-4427714090",
+      "first_seen": "2026-07-23",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4426185180": {
+      "title": "Software Engineering Intern (Summer 2027)",
+      "company": "CircleBack",
+      "url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-circleback-4426185180",
+      "first_seen": "2026-07-23",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4427702036": {
+      "title": "Software Engineering Intern, Summer 2027",
+      "company": "Google",
+      "url": "https://in.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-google-4427702036",
+      "first_seen": "2026-07-23",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4394378255": {
+      "title": "Manufacturing Engineering Intern (Summer 2026)(Onsite)",
+      "company": "Collins Aerospace",
+      "url": "https://www.linkedin.com/jobs/view/manufacturing-engineering-intern-summer-2026-onsite-at-collins-aerospace-4394378255",
+      "first_seen": "2026-07-23",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "gh-anduril-5153187007": {
+      "title": "2027 Mechanical Engineer Intern",
+      "company": "Anduril Industries",
+      "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5153187007",
+      "first_seen": "2026-07-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "gh-anduril-5153218007": {
+      "title": "2027 Manufacturing Engineer Intern",
+      "company": "Anduril Industries",
+      "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5153218007",
+      "first_seen": "2026-07-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4427140818": {
+      "title": "2027 Software Engineer Intern",
+      "company": "Anduril Industries",
+      "url": "https://www.linkedin.com/jobs/view/2027-software-engineer-intern-at-anduril-industries-4427140818",
+      "first_seen": "2026-07-24",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4415981717": {
+      "title": "Mechanical Engineering Intern Fall 2026",
+      "company": "Rocket Lab",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-fall-2026-at-rocket-lab-4415981717",
+      "first_seen": "2026-07-24",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4296314034": {
+      "title": "Mechanical Engineering Intern Summer 2026",
+      "company": "Rocket Lab",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-summer-2026-at-rocket-lab-4296314034",
+      "first_seen": "2026-07-24",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4334824409": {
+      "title": "Amazon Robotics - Hardware Engineer Intern Summer 2026",
+      "company": "Amazon",
+      "url": "https://www.linkedin.com/jobs/view/amazon-robotics-hardware-engineer-intern-summer-2026-at-amazon-4334824409",
+      "first_seen": "2026-07-24",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4420686859": {
+      "title": "Software Engineering Intern",
+      "company": "Joby Aviation",
+      "url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-joby-aviation-4420686859",
+      "first_seen": "2026-07-24",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ge-unison-R5037097": {
+      "title": "Engineering Intern (Summer 2027)",
+      "company": "Unison / GE Aerospace",
+      "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027",
+      "first_seen": "2026-07-25",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "soeffects-ee-2027": {
+      "title": "Electrical Engineering Intern (Summer 2027)",
+      "company": "Second Order Effects",
+      "url": "https://jobs.gem.com/soeffects/am9icG9zdDqLIuZagE8SU-HqhGf7TGYo",
+      "first_seen": "2026-07-25",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4410096868": {
+      "title": "Spring 2027 Internship - Engineering",
+      "company": "Stoke Space",
+      "url": "https://www.linkedin.com/jobs/view/spring-2027-internship-engineering-at-stoke-space-4410096868",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4410203767": {
+      "title": "Spring 2027 Internship - Software",
+      "company": "Stoke Space",
+      "url": "https://www.linkedin.com/jobs/view/spring-2027-internship-software-at-stoke-space-4410203767",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4372150027": {
+      "title": "Robotics Software Intern - Autonomy",
+      "company": "Boston Dynamics",
+      "url": "https://www.linkedin.com/jobs/view/robotics-software-intern-autonomy-at-boston-dynamics-4372150027",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "gh-bae-software-2027": {
+      "title": "Software Engineering Intern I (Summer 2027)",
+      "company": "BAE Systems",
+      "url": "https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "gh-tsmc-2027": {
+      "title": "Engineering Intern (Summer 2027)",
+      "company": "TSMC Arizona",
+      "url": "https://ro.careers.tsmc.com/job/Phoenix-Summer-2027-TSMC-AZ-Internship-Opportunities-Engineering-Roles-AZ-85001/1361003166/",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "gh-blueorigin-spring2027-mfg": {
+      "title": "Spring 2027 Manufacturing Engineering Internship - Undergraduate",
+      "company": "Blue Origin",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Spring-2027-Manufacturing-Engineering-Internship---Undergraduate_R66348",
+      "first_seen": "2026-07-25",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "gh-anduril-5148101007": {
+      "title": "2027 Electrical Engineer Intern",
+      "company": "Anduril Industries",
+      "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148101007",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ta-gnc-5047264007": {
+      "title": "GNC Intern",
+      "company": "True Anomaly",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5047264007",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ta-avionics-5192738007": {
+      "title": "Avionics and Electrical Engineering Intern",
+      "company": "True Anomaly",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5192738007",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "astranis-me-fall2026": {
+      "title": "Mechanical Engineer Intern (Fall 2026)",
+      "company": "Astranis",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4677541006",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "zipline-fte-fall2026": {
+      "title": "Flight Test Engineer Intern (Fall 2026)",
+      "company": "Zipline",
+      "url": "https://www.zipline.com/open-roles?gh_jid=7767622003",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "figureai-ee-fall2026": {
+      "title": "Electrical Engineering Intern (Fall 2026)",
+      "company": "Figure AI",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4676467006",
+      "first_seen": "2026-07-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ng-R10194292": {
+      "title": "2027 Intern Test & Evaluation",
+      "company": "Northrop Grumman",
+      "url": "https://jobs.northropgrumman.com/careers/job/1340071917246-2027-intern-test-evaluation-united-states-california-palmdale?domain=ngc.com",
+      "first_seen": "2026-07-27",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ng-1340068846324": {
+      "title": "2027 Intern Test & Evaluation",
+      "company": "Northrop Grumman",
+      "url": "https://jobs.northropgrumman.com/careers/job/1340068846324-2027-intern-test-evaluation-united-states-florida-melbourne?domain=ngc.com",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ge-R5029793": {
+      "title": "Engines Engineering Intern \u2013 US \u2013 Summer 2027 - Returning Students",
+      "company": "GE Aerospace",
+      "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5029793EXTERNALENGLOBAL/Engines-Engineering-Intern-US-Summer-2027-Returning-Students",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ge-R5030177": {
+      "title": "Systems Engineering Intern - ME/AE (Electric Power) \u2013 Summer 2027 - Returning Students",
+      "company": "GE Aerospace",
+      "url": "https://careers.geaerospace.com/global/en/job/R5030177/Systems-Engineering-Intern-Mechanical-Aerospace-Engineering-Electric-Power-US-Summer-2027-Returning-Students",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ge-R5029659": {
+      "title": "Manufacturing Engineering Intern \u2013 US \u2013 Summer 2027",
+      "company": "GE Aerospace",
+      "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5029659EXTERNALENGLOBAL/Manufacturing-Engineering-Intern-US-Summer-2027",
+      "first_seen": "2026-07-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ge-R5030174": {
+      "title": "Systems Engineering Intern - EE/CS (Electric Power) \u2013 Summer 2027 - Returning Students",
+      "company": "GE Aerospace",
+      "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030174EXTERNALENGLOBAL/Systems-Engineering-Intern-Electrical-Engineering-Computer-Engineering-Science-Electric-Power-US-Summer-2027-Returning-Students",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ge-R5030079": {
+      "title": "Manufacturing Engineering Intern \u2013 US \u2013 Summer 2027 - Returning Students",
+      "company": "GE Aerospace",
+      "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030079EXTERNALENGLOBAL/Manufacturing-Engineering-Intern-US-Summer-2027-Returning-Students",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ge-R5030092": {
+      "title": "Digital Technology Intern \u2013 US \u2013 Summer 2027 - Returning Students",
+      "company": "GE Aerospace",
+      "url": "https://careers.geaerospace.com/global/en/job/R5030092/Digital-Technology-Intern-US-Summer-2027-Returning-Students",
+      "first_seen": "2026-07-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "griffon-aero-3953902": {
+      "title": "Mechanical and Aerospace Engineering Intern",
+      "company": "Griffon Aerospace",
+      "url": "https://griffonaerospace.applicantpro.com/iframe/mobile/3953902.html",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "odin-dynamics-summer-2027": {
+      "title": "Summer Engineering Intern",
+      "company": "Odin Dynamics",
+      "url": "https://jobs.ashbyhq.com/odin-dynamics/9b30430d-86e4-4c3f-93d8-f06de09b1f61",
+      "first_seen": "2026-07-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "gh-anduril-4829641007": {
+      "title": "Systems Engineer Intern",
+      "company": "Anduril Industries",
+      "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4829641007",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "gh-anduril-4829831007": {
+      "title": "Automations/Control Systems Engineer Intern",
+      "company": "Anduril Industries",
+      "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4829831007",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "neuralink-7666761003": {
+      "title": "Manufacturing Intern, Surgery & Robotics",
+      "company": "Neuralink",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7666761003",
+      "first_seen": "2026-07-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "nightwing-JR101733": {
+      "title": "Software / Hardware Engineering Intern",
+      "company": "Nightwing",
+      "url": "https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "janestreet-8624440002": {
+      "title": "Hardware Engineer (FPGA/ASIC) Intern",
+      "company": "Jane Street",
+      "url": "https://www.janestreet.com/join-jane-street/position/8624440002/",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "akuna-8018880": {
+      "title": "Hardware Engineer Intern",
+      "company": "Akuna Capital",
+      "url": "https://akunacapital.com/careers/job/8018880/",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "haast-autonomous-coop": {
+      "title": "Spring/Summer Engineering Co-op",
+      "company": "Haast Autonomous",
+      "url": "https://jobs.ashbyhq.com/haastautonomous/1e75b376-3278-4e23-a339-61b5be155763",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "gh-anduril-5136984007": {
+      "title": "2027 Early Career Mechanical Engineer",
+      "company": "Anduril Industries",
+      "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5136984007",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ng-1340072621686": {
+      "title": "2027 Entry Level Engineering Opportunities - California",
+      "company": "Northrop Grumman",
+      "url": "https://jobs.northropgrumman.com/careers/apply?pid=1340072621686&domain=ngc.com",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "archer56-7637486003": {
+      "title": "Mechanical Engineer Intern (Summer 2026)",
+      "company": "Archer Aviation",
+      "url": "https://job-boards.greenhouse.io/archer56/jobs/7637486003",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "beyondreach-me-summer-2027": {
+      "title": "Mechanical Engineer Intern (Summer 2027)",
+      "company": "Beyond Reach Labs (YC W26)",
+      "url": "https://jobs.ashbyhq.com/beyondreachlabs/3ca9915e-b63f-4b26-bc20-cc8ae6d14d08",
+      "first_seen": "2026-07-31",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "haast-summer-2027-intern": {
+      "title": "Summer 2027 Engineering Internship",
+      "company": "Haast Autonomous",
+      "url": "https://jobs.ashbyhq.com/haastautonomous/5e3667c4-3d04-40d9-87d1-6b7fe6539e2d",
+      "first_seen": "2026-07-31",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "beta-tech-vermont-2627": {
+      "title": "2026-2027 BETA Internship (Vermont)",
+      "company": "BETA Technologies",
+      "url": "https://jobs.lever.co/beta/a3cf2927-7c4a-459d-8296-28034dccbee8",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "beta-tech-nc-2627": {
+      "title": "2026-2027 BETA Internship (Raleigh, North Carolina)",
+      "company": "BETA Technologies",
+      "url": "https://jobs.lever.co/beta/ebe2407c-7f49-464e-81c3-ef5ebe8873b7",
+      "first_seen": "2026-07-31",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "rtx-me-s2027-mckinney": {
+      "title": "Mechanical Engineering Intern (Summer 2027)",
+      "company": "RTX / Raytheon",
+      "url": "https://bebee.com/us/jobs/mechanical-engineering-intern-summer-2027-rtx-mckinney--fj-2284911830",
+      "first_seen": "2026-08-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "blueorigin-spring2027-structural-ug": {
+      "title": "Spring 2027 Structural & Mechanical Engineering Internship - Undergraduate",
+      "company": "Blue Origin",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Structural---Mechanical-Engineering-Internship---Undergraduate_R66356",
+      "first_seen": "2026-08-01",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "blueorigin-spring2027-test-eng-grad": {
+      "title": "Spring 2027 Test Engineering Internship - Graduate",
+      "company": "Blue Origin",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Test-Engineering-Internship---Graduate_R66358",
+      "first_seen": "2026-08-01",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "field-ai-rugged-compute-federal": {
+      "title": "Mechanical Engineering Intern: Rugged Compute Payloads (Federal)",
+      "company": "FieldAI",
+      "url": "https://jobs.lever.co/field-ai/1e9b66dc-7b55-4690-b48e-d093669cca9a",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4441426827": {
+      "title": "2027 Gas Turbine Product Engineering Internship",
+      "company": "Solar Turbines (Caterpillar)",
+      "url": "https://www.linkedin.com/jobs/view/2027-gas-turbine-product-engineering-internship-at-solar-turbines-4441426827",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "solar-turbines-solutions-2027": {
+      "title": "2027 Internship - Solutions Platforms Engineered",
+      "company": "Solar Turbines (Caterpillar)",
+      "url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "solar-turbines-tmp-2027": {
+      "title": "2027 Internship TMP Tech & NPI",
+      "company": "Solar Turbines (Caterpillar)",
+      "url": "https://www.ziprecruiter.com/c/Solar-Turbines/Job/2027-Internship-TMP-Tech-&-NPI/-in-San-Diego,CA?jid=2050953ad3f4f171",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ge-R5029621": {
+      "title": "Engines Engineering Intern \u2013 US \u2013 Summer 2027",
+      "company": "GE Aerospace",
+      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ng-2027-sw-1340072789981": {
+      "title": "2027 Intern Software Engineer",
+      "company": "Northrop Grumman",
+      "url": "https://jobs.northropgrumman.com/careers/job/1340072789981-2027-intern-software-engineer-united-states-florida-melbourne?domain=ngc.com",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "boeing-2027-pm-98681019360": {
+      "title": "Boeing Summer 2027 Internship Program (Paid) - Program Management",
+      "company": "Boeing",
+      "url": "https://jobs.boeing.com/job/arlington/boeing-summer-2027-internship-program-paid-program-management/185/98681019360",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "koch-flinthills-me-s2027": {
+      "title": "Summer 2027 Mechanical Engineering Intern",
+      "company": "Koch / Flint Hills Resources",
+      "url": "https://jobright.ai/jobs/info/6a718c87e2b7476e7b20e792",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "rs-me-7892232002": {
+      "title": "2027 Mechanical Engineer Intern",
+      "company": "Relativity Space",
+      "url": "https://boards.greenhouse.io/rsinternboard/jobs/7892232002",
+      "first_seen": "2026-08-05",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "spacex-8621740002": {
+      "title": "Summer 2027 Engineering Internship/Co-op",
+      "company": "SpaceX",
+      "url": "https://job-boards.greenhouse.io/spacex/jobs/8621740002",
+      "first_seen": "2026-08-05",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "bd-me-R2475": {
+      "title": "Mechanical Engineering Intern",
+      "company": "Boston Dynamics",
+      "url": "https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Mechanical-Engineering-Intern_R2475",
+      "first_seen": "2026-08-05",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "nasa-jpl-summer-2027": {
+      "title": "JPL Summer Internship Program 2027",
+      "company": "NASA JPL",
+      "url": "https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program/",
+      "first_seen": "2026-08-05",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "rivian-me-simplify": {
+      "title": "Mechanical Engineering Internships",
+      "company": "Rivian",
+      "url": "https://simplify.jobs/p/bc498080-746e-45c8-bafd-e5b3d374f29e/Mechanical-Engineering-Internships",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "apple-hw-ug-200663981": {
+      "title": "Hardware Undergrad Engineering Internships",
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-us/details/200663981-3810/hardware-undergrad-engineering-internships",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "cat-r0000380501": {
+      "title": "2027 Engineering Corporate Internship Program \u2013 Materials",
+      "company": "Caterpillar",
+      "url": "https://careers.caterpillar.com/en/jobs/r0000380501/2027-engineering-corporate-internship-program-materials/",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4423171515": {
+      "title": "Spring 2027 Aerospace Systems Engineering Internship (Undergraduate)",
+      "company": "Blue Origin",
+      "url": "https://www.linkedin.com/jobs/view/spring-2027-aerospace-systems-engineering-internship-undergraduate-at-blue-origin-4423171515",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4423186334": {
+      "title": "Spring 2027 Electrical Systems Engineering Internship (Undergraduate)",
+      "company": "Blue Origin",
+      "url": "https://www.linkedin.com/jobs/view/spring-2027-electrical-systems-engineering-internship-undergraduate-at-blue-origin-4423186334",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4423145521": {
+      "title": "Spring 2027 Fluid Systems Engineering Internship (Graduate)",
+      "company": "Blue Origin",
+      "url": "https://www.linkedin.com/jobs/view/spring-2027-fluid-systems-engineering-internship-graduate-at-blue-origin-4423145521",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4441253436": {
+      "title": "Summer 2027 Aerospace & Defense Consulting Internship",
+      "company": "Fairmont Consulting Group",
+      "url": "https://www.linkedin.com/jobs/view/summer-2027-aerospace-defense-consulting-internship-at-fairmont-consulting-group-4441253436",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "blueorigin-spring2027-fluids-ug-R66292": {
+      "title": "Spring 2027 Fluid Systems Engineering Internship (Undergraduate)",
+      "company": "Blue Origin",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Fluid-Systems-Engineering-Internship---Undergraduate_R66292",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "blueorigin-spring2027-gnc-ug-R66295": {
+      "title": "Spring 2027 GNC Internship (Undergraduate)",
+      "company": "Blue Origin",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Guidance--Navigation---Controls-Internship---Undergraduate_R66295",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "blueorigin-spring2027-test-ug-R66360": {
+      "title": "Spring 2027 Test Engineering Internship (Undergraduate)",
+      "company": "Blue Origin",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Test-Engineering-Internship---Undergraduate_R66360",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "nvidia-robotics-893393991136": {
+      "title": "Robotics Research Intern - 2026/2027",
+      "company": "NVIDIA",
+      "url": "https://jobs.nvidia.com/careers/job/893393991136",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "personaai-ml-manipulation": {
+      "title": "Machine Learning Intern - Manipulation",
+      "company": "Persona AI",
+      "url": "https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "rendezvous-avionics-4329118009": {
+      "title": "Avionics Engineering Intern (Spring 2027)",
+      "company": "Rendezvous Robotics",
+      "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329118009",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "drw-fpga-3484423": {
+      "title": "FPGA Intern",
+      "company": "DRW",
+      "url": "https://www.drw.com/work-at-drw/listings/fpga-intern-3484423",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "virtu-hw-8657286002": {
+      "title": "2027 Internship - Hardware Engineer (FPGA)",
+      "company": "Virtu Financial",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8657286002",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "etched-firmware": {
+      "title": "Firmware Intern",
+      "company": "Etched",
+      "url": "https://jobs.ashbyhq.com/Etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "apple-hw-200606475": {
+      "title": "Hardware Engineering Internships",
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-us/details/200606475-3810/hardware-engineering-internships",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "spacex-8621757002": {
+      "title": "Summer 2027 Software Engineering Internship/Co-op",
+      "company": "SpaceX",
+      "url": "https://job-boards.greenhouse.io/spacex/jobs/8621757002",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "bae-RF-127601BR": {
+      "title": "RF Engineering Intern III (Summer 2027, Hybrid)",
+      "company": "BAE Systems",
+      "url": "https://jobs.baesystems.com/global/en/job/127601BR/Radio-frequency-RF-Engineering-Intern-III-Summer-2027-Hybrid",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "lucidbots-5124654008": {
+      "title": "Summer Engineering Intern",
+      "company": "Lucid Bots",
+      "url": "https://job-boards.greenhouse.io/lucidbots/jobs/5124654008",
+      "first_seen": "2026-08-07",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "boeing-2027-qe-98720781296": {
+      "title": "Boeing Summer 2027 Internship Program (Paid) - Quality Engineering Intern",
+      "company": "Boeing",
+      "url": "https://jobs.boeing.com/job/seattle/boeing-summer-2027-internship-program-paid-quality-engineering-intern/185/98720781296",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "boeing-2027-sc-98720778608": {
+      "title": "Boeing Summer 2027 Internship Program (Paid) - Supply Chain",
+      "company": "Boeing",
+      "url": "https://jobs.boeing.com/job/everett/boeing-summer-2027-internship-program-paid-supply-chain/185/98720778608",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "boeing-2027-da-98720782192": {
+      "title": "Boeing Summer 2027 Internship Program (Paid) - Data Analytics Intern",
+      "company": "Boeing",
+      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "boeing-2027-gov-98720778000": {
+      "title": "Boeing Summer 2027 Internship Program (Paid) - Government Operations and Sustainability",
+      "company": "Boeing",
+      "url": "https://jobs.boeing.com/job/arlington/boeing-summer-2027-internship-program-paid-government-operations-and-sustainability/185/98720778000",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "boeing-2027-pm2-98710337328": {
+      "title": "Boeing Summer 2027 Internship Program (Paid) - Program Management",
+      "company": "Boeing",
+      "url": "https://jobs.boeing.com/job/arlington/boeing-summer-2027-internship-program-paid-program-management/185/98710337328",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "spacex-8621763002": {
+      "title": "Summer 2027 Silicon Engineering Internship/Co-op",
+      "company": "SpaceX",
+      "url": "https://job-boards.greenhouse.io/spacex/jobs/8621763002",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "spacex-civstruct-88627363": {
+      "title": "Summer 2027 Civil/Structural Engineering Internship",
+      "company": "SpaceX",
+      "url": "https://jobs.longjourney.vc/companies/spacex/jobs/88627363-summer-2027-civil-structural-engineering-internship",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "joby-flighttest-5297": {
+      "title": "Flight Test Intern (Dec 2026 - Feb 2027)",
+      "company": "Joby Aviation",
+      "url": "https://careers-jobyaviation.icims.com/jobs/5297/flight-test-intern-(dec-2026-feb-2027)/job",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "lm-91876102544": {
+      "title": "Aeronautics Engineer (Propulsion/PTMS) - Intern",
+      "company": "Lockheed Martin",
+      "url": "https://www.lockheedmartinjobs.com/job/palmdale/aeronautics-engineer-propulsion-ptms-intern/694/91876102544",
+      "first_seen": "2026-08-09",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "lm-91344196640": {
+      "title": "Aeronautical Engineer (Propulsion) - Intern",
+      "company": "Lockheed Martin",
+      "url": "https://www.lockheedmartinjobs.com/job/fort-worth/aeronautical-engineer-propulsion-intern/694/91344196640",
+      "first_seen": "2026-08-09",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "lm-91592743328": {
+      "title": "Mechanical Engineer Intern (Space / FBM Reentry)",
+      "company": "Lockheed Martin",
+      "url": "https://www.lockheedmartinjobs.com/job/littleton/mechanical-engineer-intern/694/91592743328",
+      "first_seen": "2026-08-09",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "lm-90622530992": {
+      "title": "Propulsion Design Engineering Intern",
+      "company": "Lockheed Martin",
+      "url": "https://www.lockheedmartinjobs.com/job/stratford/propulsion-design-engineering-intern/694/90622530992",
+      "first_seen": "2026-08-09",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ng-1340073486900": {
+      "title": "2027 Intern Vehicle Engineering",
+      "company": "Northrop Grumman",
+      "url": "https://jobs.northropgrumman.com/careers/job/1340073486900-2027-intern-vehicle-engineering-united-states-florida-melbourne",
+      "first_seen": "2026-08-09",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ng-1340073448706": {
+      "title": "2027 Intern \u2013 Test & Evaluation Engineer",
+      "company": "Northrop Grumman",
+      "url": "https://jobs.northropgrumman.com/careers/job/1340073448706",
+      "first_seen": "2026-08-09",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ng-R10241581": {
+      "title": "2027 Intern \u2013 Test & Evaluation Engineer (R10241581)",
+      "company": "Northrop Grumman",
+      "url": "https://jobs.northropgrumman.com/careers/job/1340073097881",
+      "first_seen": "2026-08-09",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4449750164": {
+      "title": "Mechanical Engineering Intern - Nuclear (Summer 2027)",
+      "company": "Sargent Lundy",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-nuclear-summer-2027-at-sargent-lundy-4449750164",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4445525201": {
+      "title": "Summer 2027 Intern - Hardware Engineering",
+      "company": "WD (Western Digital)",
+      "url": "https://www.linkedin.com/jobs/view/summer-2027-intern-hardware-engineering-at-wd-4445525201",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ng-1340073325729": {
+      "title": "2027 Intern Software Engineer",
+      "company": "Northrop Grumman",
+      "url": "https://jobs.northropgrumman.com/careers/job/1340073325729-2027-intern-software-engineer-united-states-florida-melbourne",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "rtx-me-s2027-marlborough": {
+      "title": "Mechanical Engineer Intern - Radar Systems (Summer 2027)",
+      "company": "RTX / Raytheon",
+      "url": "https://simplify.jobs/p/fc15b81d-7479-4606-9419-61a162fcc61c/Mechanical-Engineer-Intern",
+      "first_seen": "2026-08-10",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "rtx-me-s2027-thermal": {
+      "title": "Mechanical Engineering Intern - Thermal Simulation (Summer 2027)",
+      "company": "RTX / Raytheon",
+      "url": "https://jobright.ai/jobs/info/6a750cb6972ac843c6998bfb",
+      "first_seen": "2026-08-10",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "boeing-2027-eng-JR2026505093": {
+      "title": "Boeing Summer 2027 Internship Program - Engineering",
+      "company": "Boeing",
+      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/INTERN/job/Boeing-Summer-2027-Internship-Program--Paid----Engineering_JR2026505093",
+      "first_seen": "2026-08-10",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4451057545": {
+      "title": "Raytheon Electrical Engineering Intern (Summer 2027)",
+      "company": "RTX / Raytheon",
+      "url": "https://www.linkedin.com/jobs/view/raytheon-electrical-engineering-intern-summer-2027-onsite-at-raytheon-4451057545",
+      "first_seen": "2026-08-10",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "blueorigin-spring2027-eng-ug-R69064": {
+      "title": "Spring 2027 Engineering Intern - Undergraduate",
+      "company": "Blue Origin",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027--Engineering-Intern---Undergraduate_R69064",
+      "first_seen": "2026-08-10",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "bae-me-127637BR": {
+      "title": "Mechanical Engineering Intern III (Summer 2027)",
+      "company": "BAE Systems",
+      "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
+      "first_seen": "2026-08-11",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    }
   }
 }
