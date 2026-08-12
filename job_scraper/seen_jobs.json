@@ -1349,6 +1349,33 @@
       "fit": "high",
       "status": "new",
       "portal": "linkedin-websearch-fallback"
+    },
+    "xona-me-summer-2027": {
+      "title": "Mechanical Engineering Intern (Summer 2027)",
+      "company": "Xona Space Systems",
+      "url": "https://www.builtinsf.com/job/mechanical-engineering-intern-summer-2027/10183297",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "pyka-me-intern-92d3f17a": {
+      "title": "Mechanical Engineering Intern",
+      "company": "Pyka",
+      "url": "https://jobs.lever.co/pyka/92d3f17a-8fc7-4105-862c-2429db8d4859",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "boeing-2027-facilities-98720782320": {
+      "title": "Boeing Summer 2027 Internship Program (Paid) - Facilities Engineering",
+      "company": "Boeing",
+      "url": "https://jobs.boeing.com/job/everett/boeing-summer-2027-internship-program-paid-facilities-engineering/185/98720782320",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
