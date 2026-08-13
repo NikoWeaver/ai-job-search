@@ -1376,6 +1376,15 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback"
+    },
+    "ng-1340073519574": {
+      "title": "2027 Operations Manufacturing Engineering Intern",
+      "company": "Northrop Grumman",
+      "url": "https://jobs.northropgrumman.com/careers/apply?pid=1340073519574&domain=ngc.com",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
