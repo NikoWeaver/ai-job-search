@@ -1385,6 +1385,24 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback"
+    },
+    "rtx-me-s2027-tewksbury": {
+      "title": "Mechanical Engineering Intern (Summer 2027)",
+      "company": "RTX / Raytheon",
+      "url": "https://bebee.com/us/jobs/mechanical-engineering-intern-summer-2027-rtx-tewksbury-ma-united-states--oneredce-28535_9x3GWyNjJ4ct8XA_37929",
+      "first_seen": "2026-08-14",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "boeing-2027-bo-98720778416": {
+      "title": "Boeing Summer 2027 Internship Program (Paid) - Business Operations",
+      "company": "Boeing",
+      "url": "https://jobs.boeing.com/job/everett/boeing-summer-2027-internship-program-paid-business-operations/185/98720778416",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
