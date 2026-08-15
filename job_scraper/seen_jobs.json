@@ -1403,6 +1403,42 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback"
+    },
+    "gev-wind-R5045680": {
+      "title": "Wind Engineering Internship - Summer 2027",
+      "company": "GE Vernova",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Greenville/Wind-Engineering-Internship---Summer-2027_R5045680-2/apply",
+      "first_seen": "2026-08-15",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "gev-nuclear-mfg-R5049016": {
+      "title": "Nuclear - Manufacturing / Supply Chain Intern (Summer 2027)",
+      "company": "GE Vernova",
+      "url": "https://careers.gevernova.com/ge-vernova-nuclear-manufacturing-supply-chain-intern-summer-2027/job/R5049016",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "gev-nuclear-eng-R5048563": {
+      "title": "Nuclear Engineering Intern - Summer 2027",
+      "company": "GE Vernova",
+      "url": "https://careers.gevernova.com/ge-vernova-nuclear-engineering-intern-summer-2027/job/R5048563",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "spacex-8621771002": {
+      "title": "Summer 2027 Business Operations Internship/Co-op",
+      "company": "SpaceX",
+      "url": "https://job-boards.greenhouse.io/spacex/jobs/8621771002",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
