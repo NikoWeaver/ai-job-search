@@ -1439,6 +1439,15 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback"
+    },
+    "4448045400": {
+      "title": "NH Systems Engineering Intern III (Summer 2027) Onsite",
+      "company": "BAE Systems",
+      "url": "https://www.linkedin.com/jobs/view/new-hampshire-systems-engineering-intern-iii-summer-2027-onsite-at-bae-systems-inc-4448045400",
+      "first_seen": "2026-08-16",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
