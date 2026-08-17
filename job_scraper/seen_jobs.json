@@ -1448,6 +1448,105 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback"
+    },
+    "lm-91375966320": {
+      "title": "Aeronautical Engineer (Structures) - Intern",
+      "company": "Lockheed Martin",
+      "url": "https://www.lockheedmartinjobs.com/job/fort-worth/aeronautical-engineer-structures-intern/694/91375966320",
+      "first_seen": "2026-08-17",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "lm-91167229008": {
+      "title": "Aeronautical Engineer (Structures) - Intern",
+      "company": "Lockheed Martin",
+      "url": "https://www.lockheedmartinjobs.com/job/fort-worth/aeronautical-engineer-structures-intern/694/91167229008",
+      "first_seen": "2026-08-17",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "lm-93153301984": {
+      "title": "Mechanical Engineer (Structures) - Intern",
+      "company": "Lockheed Martin",
+      "url": "https://www.lockheedmartinjobs.com/job/fort-worth/mechanical-engineer-structures-intern/694/93153301984",
+      "first_seen": "2026-08-17",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "lm-91909811888": {
+      "title": "Aerospace Engineer Intern",
+      "company": "Lockheed Martin",
+      "url": "https://www.lockheedmartinjobs.com/job/sunnyvale/aerospace-engineer-intern/694/91909811888",
+      "first_seen": "2026-08-17",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "lm-91167229024": {
+      "title": "Mechanical Engineer Intern (Moorestown)",
+      "company": "Lockheed Martin",
+      "url": "https://www.lockheedmartinjobs.com/job/moorestown/mechanical-engineer-intern/694/91167229024",
+      "first_seen": "2026-08-17",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "lm-94559146080": {
+      "title": "Engineering Internship (Lexington, KY)",
+      "company": "Lockheed Martin",
+      "url": "https://www.lockheedmartinjobs.com/job/lexington/engineering-internship-lexington-ky/694/94559146080",
+      "first_seen": "2026-08-17",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "lm-88545915200": {
+      "title": "Dynamic Systems Structures Engineer Intern",
+      "company": "Lockheed Martin",
+      "url": "https://www.lockheedmartinjobs.com/job/fort-worth/dynamic-systems-structures-engineer-intern/694/88545915200",
+      "first_seen": "2026-08-17",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "lm-87787655520": {
+      "title": "Aeronautical Engineer (Flight Test) - Intern",
+      "company": "Lockheed Martin",
+      "url": "https://www.lockheedmartinjobs.com/job/fort-worth/aeronautical-engineer-flight-test-intern/694/87787655520",
+      "first_seen": "2026-08-17",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "ng-1340072781402": {
+      "title": "2027 Intern Electronics Engineer",
+      "company": "Northrop Grumman",
+      "url": "https://jobs.northropgrumman.com/careers/job/1340072781402-2027-intern-electronics-engineer-united-states-california-san-diego",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "rtx-ee-plano-2027": {
+      "title": "Raytheon Electrical Engineering Intern (Summer 2027)",
+      "company": "RTX / Raytheon",
+      "url": "https://careers.rtx.com/global/en/job/01864023/Raytheon-Electrical-Engineering-Intern-Summer-2027-Onsite",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "rtx-sw-cedarrapids-2027": {
+      "title": "Software Engineering Intern (Summer 2027)",
+      "company": "RTX / Raytheon",
+      "url": "https://careers.rtx.com/global/en/job/01865875/Software-Engineering-Intern-Summer-2027",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
