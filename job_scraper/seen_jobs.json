@@ -1547,6 +1547,90 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback"
+    },
+    "4383421885": {
+      "title": "Systems Engineering Intern (Mechanical/Aerospace Engineering - Electric Power) US Summer 2027 Returning Students",
+      "company": "GE Aerospace",
+      "url": "https://www.linkedin.com/jobs/view/systems-engineering-intern-mechanical-aerospace-engineering-electric-power-us-summer-2027-returning-students-at-ge-aerospace-4383421885",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "3718482481": {
+      "title": "Summer Internship - Engineering, Operations, Quality",
+      "company": "Airbus",
+      "url": "https://www.linkedin.com/jobs/view/summer-internship-engineering-operations-quality-at-airbus-3718482481",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "anduril-sw-5148079007": {
+      "title": "2027 Software Engineer Intern",
+      "company": "Anduril Industries",
+      "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "rocketlab-7820014003": {
+      "title": "Manufacturing Engineering Intern - Spacecraft Components",
+      "company": "Rocket Lab",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7820014003",
+      "first_seen": "2026-08-18",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "note": "Term unconfirmed (may be Fall 2026) \u2014 verify before applying"
+    },
+    "rocketlab-7821115003": {
+      "title": "Manufacturing Engineering Intern",
+      "company": "Rocket Lab",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821115003",
+      "first_seen": "2026-08-18",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "note": "Term unconfirmed (may be Fall 2026) \u2014 verify before applying"
+    },
+    "rocketlab-7819743003": {
+      "title": "Avionics Intern - Neutron Avionics Hardware",
+      "company": "Rocket Lab",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819743003",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "note": "Term unconfirmed \u2014 verify before applying"
+    },
+    "rocketlab-7821144003": {
+      "title": "Avionics Development Intern - Electron",
+      "company": "Rocket Lab",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821144003",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "rocketlab-7819703003": {
+      "title": "Integrated Operations Intern",
+      "company": "Rocket Lab",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819703003",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "rocketlab-5501382003": {
+      "title": "Engineering Intern",
+      "company": "Rocket Lab USA",
+      "url": "https://boards.greenhouse.io/rocketlab/jobs/5501382003",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
