@@ -1631,6 +1631,63 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback"
+    },
+    "4427642577": {
+      "title": "2027 Mechanical Engineer Intern",
+      "company": "Anduril Industries",
+      "url": "https://www.linkedin.com/jobs/view/2027-mechanical-engineer-intern-at-anduril-industries-4427642577",
+      "first_seen": "2026-08-20",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "LinkedIn ID for role already tracked as gh-anduril-5153187007 \u2014 added for dedup"
+    },
+    "4440593656": {
+      "title": "Mechanical Engineering Intern (Summer 2027)",
+      "company": "Xona Space Systems",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-summer-2027-at-xona-4440593656",
+      "first_seen": "2026-08-20",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4453376504": {
+      "title": "Mechanical Engineering Intern (Summer 2027)",
+      "company": "Vertiv",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-summer-2027-at-vertiv-4453376504",
+      "first_seen": "2026-08-20",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4448471768": {
+      "title": "2027 Summer Intern: Engineering - Mechanical Design",
+      "company": "Hubbell Incorporated",
+      "url": "https://www.linkedin.com/jobs/view/2027-summer-intern-engineering-mechanical-design-at-hubbell-incorporated-4448471768",
+      "first_seen": "2026-08-20",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "3841594050": {
+      "title": "Mechanical Engineer Intern",
+      "company": "Boston Dynamics",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-intern-at-boston-dynamics-3841594050",
+      "first_seen": "2026-08-20",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Low job ID suggests older posting \u2014 verify term before applying"
+    },
+    "4337092878": {
+      "title": "Intern Summer 2026 - Advanced Manufacturing Engineering",
+      "company": "Shield AI",
+      "url": "https://www.linkedin.com/jobs/view/intern-summer-2026-advanced-manufacturing-engineering-intern-r4102-at-shield-ai-4337092878",
+      "first_seen": "2026-08-20",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Wrong term: Summer 2026 (expired)"
     }
   }
 }
