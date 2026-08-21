@@ -1688,6 +1688,15 @@
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
       "notes": "Wrong term: Summer 2026 (expired)"
+    },
+    "gh-anduril-5071345007": {
+      "title": "2027 Software Engineer Intern",
+      "company": "Anduril Industries",
+      "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5071345007",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
