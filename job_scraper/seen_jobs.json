@@ -1697,6 +1697,33 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback"
+    },
+    "bae-me-128692BR": {
+      "title": "Mechanical Engineering Intern IV (Summer 2027)",
+      "company": "BAE Systems",
+      "url": "https://jobs.baesystems.com/global/en/job/128692BR/Mechanical-Engineering-Intern-IV-Summer-2027-Onsite",
+      "first_seen": "2026-08-22",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "rtx-me-s2027-fullerton": {
+      "title": "Mechanical Engineering Intern (Summer 2027) - Tactical Radars",
+      "company": "RTX / Raytheon",
+      "url": "https://jobright.ai/jobs/info/6a8230f919ce4e6e9d94798a",
+      "first_seen": "2026-08-22",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "jacobs-me-s2027-43715": {
+      "title": "Mechanical Engineering Intern (Summer 2027)",
+      "company": "Jacobs",
+      "url": "https://careers.jacobs.com/en_US/careers/JobDetail/Mechanical-Engineering-Intern-Summer-2027/43715",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
