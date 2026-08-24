@@ -1762,6 +1762,46 @@
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
       "notes": "Spring 2027 — wrong term"
+    },
+    "spacex-8616338002": {
+      "title": "Spring 2027 Engineering Internship/Co-op",
+      "company": "SpaceX",
+      "url": "https://job-boards.greenhouse.io/spacex/jobs/8616338002",
+      "first_seen": "2026-08-24",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Spring 2027 — wrong term"
+    },
+    "bae-rf-106068BR": {
+      "title": "Technical Intern 3 - RF/Microwave Engineer (Summer 2027)",
+      "company": "BAE Systems",
+      "url": "https://jobs.baesystems.com/global/en/job/106068BR/Technical-Intern-3",
+      "first_seen": "2026-08-24",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "RF/Microwave engineering — not ME/AE fit"
+    },
+    "skydio-mfg-me-931f18d2": {
+      "title": "Manufacturing Engineering Intern - Mechanical",
+      "company": "Skydio",
+      "url": "https://jobs.ashbyhq.com/skydio/931f18d2-7d3b-4c3a-9c0a-d0807c1a7d8e",
+      "first_seen": "2026-08-24",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Term unclear — possibly Summer 2026; verify before applying"
+    },
+    "imc-hw-eu-4823945101": {
+      "title": "Hardware Engineer Intern - Summer 2027",
+      "company": "IMC Trading",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
+      "first_seen": "2026-08-24",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Quantitative trading firm — not aerospace/robotics fit"
     }
   }
 }
