@@ -1802,6 +1802,63 @@
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
       "notes": "Quantitative trading firm — not aerospace/robotics fit"
+    },
+    "4455785303": {
+      "title": "Mechanical Engineer Intern (Summer 2027)",
+      "company": "Zipline",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-intern-summer-2027-at-zipline-4455785303",
+      "first_seen": "2026-08-25",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4456395342": {
+      "title": "Mechanical/Thermal Engineering Intern (Summer 2027)",
+      "company": "Vertiv",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-thermal-engineering-intern-summer-2027-at-vertiv-4456395342",
+      "first_seen": "2026-08-25",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Data center thermal management — not aerospace/robotics fit"
+    },
+    "lm-89312096688": {
+      "title": "Mechanical Engineering Intern (Severn, MD)",
+      "company": "Lockheed Martin",
+      "url": "https://www.lockheedmartinjobs.com/job/severn/mechanical-engineering-intern/694/89312096688",
+      "first_seen": "2026-08-25",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "lm-91368896400": {
+      "title": "Mechanical Engineering Design Intern (Orlando, FL)",
+      "company": "Lockheed Martin",
+      "url": "https://www.lockheedmartinjobs.com/job/orlando/mechanical-engineering-design-intern-orlando-fl/694/91368896400",
+      "first_seen": "2026-08-25",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "bae-127776BR": {
+      "title": "Mechanical Engineering Coop (Spring/Summer 2027)",
+      "company": "BAE Systems",
+      "url": "https://jobs.baesystems.com/global/en/job/127776BR/Mechanical-Engineering-Coop-Spring-Summer-2027-Onsite",
+      "first_seen": "2026-08-25",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Cedar Rapids, IA — Spring/Summer co-op (includes Summer 2027)"
+    },
+    "bae-125975BR": {
+      "title": "2027 Spring and Summer Mechanical Engineering Coop",
+      "company": "BAE Systems",
+      "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
+      "first_seen": "2026-08-25",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Cedar Rapids, IA — Spring/Summer co-op (includes Summer 2027)"
     }
   }
 }
