@@ -1909,6 +1909,24 @@
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
       "notes": "MEP/building engineering consulting — not aerospace/robotics domain"
+    },
+    "boom-supersonic-summer-2027": {
+      "title": "Summer 2027 Engineering and Tech Internship",
+      "company": "Boom Supersonic",
+      "url": "https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf",
+      "first_seen": "2026-08-27",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "astranis-me-summer-2027": {
+      "title": "Mechanical Engineer Intern (Summer 2027)",
+      "company": "Astranis",
+      "url": "https://startup.jobs/mechanical-engineer-intern-summer-2027-astranis-9006203",
+      "first_seen": "2026-08-27",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
