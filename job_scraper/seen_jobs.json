@@ -1751,7 +1751,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Civil/structural engineering — low fit"
+      "notes": "Civil/structural engineering \u2014 low fit"
     },
     "rendezvous-me-spring-4329123009": {
       "title": "Mechanical Engineering Intern (Spring 2027)",
@@ -1761,7 +1761,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Spring 2027 — wrong term"
+      "notes": "Spring 2027 \u2014 wrong term"
     },
     "spacex-8616338002": {
       "title": "Spring 2027 Engineering Internship/Co-op",
@@ -1771,7 +1771,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Spring 2027 — wrong term"
+      "notes": "Spring 2027 \u2014 wrong term"
     },
     "bae-rf-106068BR": {
       "title": "Technical Intern 3 - RF/Microwave Engineer (Summer 2027)",
@@ -1781,7 +1781,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "RF/Microwave engineering — not ME/AE fit"
+      "notes": "RF/Microwave engineering \u2014 not ME/AE fit"
     },
     "skydio-mfg-me-931f18d2": {
       "title": "Manufacturing Engineering Intern - Mechanical",
@@ -1791,7 +1791,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Term unclear — possibly Summer 2026; verify before applying"
+      "notes": "Term unclear \u2014 possibly Summer 2026; verify before applying"
     },
     "imc-hw-eu-4823945101": {
       "title": "Hardware Engineer Intern - Summer 2027",
@@ -1801,7 +1801,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Quantitative trading firm — not aerospace/robotics fit"
+      "notes": "Quantitative trading firm \u2014 not aerospace/robotics fit"
     },
     "4455785303": {
       "title": "Mechanical Engineer Intern (Summer 2027)",
@@ -1820,7 +1820,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Data center thermal management — not aerospace/robotics fit"
+      "notes": "Data center thermal management \u2014 not aerospace/robotics fit"
     },
     "lm-89312096688": {
       "title": "Mechanical Engineering Intern (Severn, MD)",
@@ -1848,7 +1848,7 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Cedar Rapids, IA — Spring/Summer co-op (includes Summer 2027)"
+      "notes": "Cedar Rapids, IA \u2014 Spring/Summer co-op (includes Summer 2027)"
     },
     "bae-125975BR": {
       "title": "2027 Spring and Summer Mechanical Engineering Coop",
@@ -1858,7 +1858,7 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Cedar Rapids, IA — Spring/Summer co-op (includes Summer 2027)"
+      "notes": "Cedar Rapids, IA \u2014 Spring/Summer co-op (includes Summer 2027)"
     },
     "4441256074": {
       "title": "Summer 2027 Aerospace & Defense Consulting Internship",
@@ -1868,7 +1868,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Consulting role — duplicate title from 4441253436 with different LinkedIn ID"
+      "notes": "Consulting role \u2014 duplicate title from 4441253436 with different LinkedIn ID"
     },
     "spacex-8621753002": {
       "title": "Summer 2027 Graduate Engineer Internship/Co-op",
@@ -1878,7 +1878,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Graduate-level role — Niko is undergraduate"
+      "notes": "Graduate-level role \u2014 Niko is undergraduate"
     },
     "epianeuro-62d296e8": {
       "title": "Hardware Engineering Intern",
@@ -1888,7 +1888,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Neural/biomedical hardware — not aerospace/robotics domain; term unspecified"
+      "notes": "Neural/biomedical hardware \u2014 not aerospace/robotics domain; term unspecified"
     },
     "field-ai-1049e3e1": {
       "title": "Electrical Engineer, Robotics Hardware - Part-time Internship",
@@ -1898,7 +1898,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Part-time role — targeting full-time summer internship"
+      "notes": "Part-time role \u2014 targeting full-time summer internship"
     },
     "4448953059": {
       "title": "Engineering Intern (Summer 2027)",
@@ -1908,7 +1908,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "MEP/building engineering consulting — not aerospace/robotics domain"
+      "notes": "MEP/building engineering consulting \u2014 not aerospace/robotics domain"
     },
     "boom-supersonic-summer-2027": {
       "title": "Summer 2027 Engineering and Tech Internship",
@@ -1926,6 +1926,24 @@
       "first_seen": "2026-08-27",
       "fit": "high",
       "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4458534247": {
+      "title": "Mechanical Engineering Intern (Summer 2027)",
+      "company": "AME Design Group",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-summer-2027-at-ame-design-group-4458534247",
+      "first_seen": "2026-08-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4450016724": {
+      "title": "Summer 2027 Systems Engineering Intern",
+      "company": "PDT Partners",
+      "url": "https://www.linkedin.com/jobs/view/summer-2027-systems-engineering-intern-at-pdt-partners-4450016724",
+      "first_seen": "2026-08-28",
+      "fit": "low",
+      "status": "skipped",
       "portal": "linkedin-websearch-fallback"
     }
   }
