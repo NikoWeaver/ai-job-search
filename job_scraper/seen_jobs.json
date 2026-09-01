@@ -1972,6 +1972,42 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback"
+    },
+    "4460533902": {
+      "title": "Test Engineering Intern - Summer 2027",
+      "company": "Honeywell Aerospace",
+      "url": "https://www.linkedin.com/jobs/view/test-engineering-intern-summer-2027-u-s-person-required-at-honeywell-aerospace-4460533902",
+      "first_seen": "2026-09-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4440303394": {
+      "title": "Hardware Engineer Intern - Summer 2027",
+      "company": "Akuna Capital",
+      "url": "https://www.linkedin.com/jobs/view/hardware-engineer-intern-summer-2027-at-akuna-capital-4440303394",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4439663447": {
+      "title": "Electrical Engineering Intern - Summer 2027",
+      "company": "Second Order Effects",
+      "url": "https://www.linkedin.com/jobs/view/electrical-engineering-intern-summer-2027-at-second-order-effects-4439663447",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4440469024": {
+      "title": "FPGA Engineer Intern - Summer 2027",
+      "company": "Optiver",
+      "url": "https://www.linkedin.com/jobs/view/fpga-engineer-intern-summer-2027-chicago-at-optiver-4440469024",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
