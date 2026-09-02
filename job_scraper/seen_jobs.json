@@ -2008,6 +2008,85 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback"
+    },
+    "aerospace-corp-me-summer-2027": {
+      "title": "Mechanical Engineering Intern (Summer 2027)",
+      "company": "The Aerospace Corporation",
+      "url": "https://www.builtincolorado.com/job/mechanical-engineering-intern-summer-2027/10919219",
+      "first_seen": "2026-09-02",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "reliable-robotics-me-intern": {
+      "title": "Mechanical Engineering Intern",
+      "company": "Reliable Robotics",
+      "url": "https://www.builtinsf.com/job/mechanical-engineering-intern/10167374",
+      "first_seen": "2026-09-02",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Autonomous aviation startup (cargo aircraft) — term unspecified, verify before applying"
+    },
+    "nvidia-hw-893397027188": {
+      "title": "Hardware Engineering Intern - Summer 2027",
+      "company": "NVIDIA",
+      "url": "https://jobs.nvidia.com/careers/job/893397027188",
+      "first_seen": "2026-09-02",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Hardware engineering (likely silicon/systems) — not aerospace domain but genuine HW role"
+    },
+    "general-matter-mfg-5376060008": {
+      "title": "Summer 2027 Internship - Manufacturing Engineering",
+      "company": "General Matter",
+      "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5376060008",
+      "first_seen": "2026-09-02",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Second General Matter posting (mfg eng); ME intern 5377107008 already tracked"
+    },
+    "rtx-se-s2027-andover": {
+      "title": "Systems Engineering Intern (Summer 2027)",
+      "company": "RTX / Raytheon",
+      "url": "https://bebee.com/us/jobs/systems-engineering-intern-summer-2027-rtx-andover-ma-united-states--oneredce-28535_y8HkH1w7RruhNlU_ff323",
+      "first_seen": "2026-09-02",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Andover, MA — defense systems engineering"
+    },
+    "4434368415": {
+      "title": "Intern - Integration Engineering - Mechanical (Spring 2027)",
+      "company": "Mujin US",
+      "url": "https://www.linkedin.com/jobs/view/intern-integration-engineering-mechanical-spring-2027-at-mujin-us-4434368415",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Spring 2027 — wrong term"
+    },
+    "blueorigin-spring2027-ae-sys-grad-R66202": {
+      "title": "Spring 2027 Aerospace Systems Engineering Intern (Graduate)",
+      "company": "Blue Origin",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Aerospace-Systems-Engineering-Intern---Graduate_R66202/apply",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Spring 2027 + Graduate level — wrong term and level"
+    },
+    "nvidia-av-robotics-JR2023496": {
+      "title": "2027 Internships: Autonomous Vehicles and Robotics",
+      "company": "NVIDIA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496",
+      "first_seen": "2026-09-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Software/AI/ML focus — not hardware/mechanical engineering"
     }
   }
 }
