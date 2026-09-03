@@ -2087,6 +2087,53 @@
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
       "notes": "Software/AI/ML focus — not hardware/mechanical engineering"
+    },
+    "k2space-dynamics-5411916008": {
+      "title": "Dynamics Engineering Intern – Summer 2027",
+      "company": "K2 Space",
+      "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411916008",
+      "first_seen": "2026-09-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "k2space-gnc-5411917008": {
+      "title": "GNC Engineering Intern – Summer 2027",
+      "company": "K2 Space",
+      "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411917008",
+      "first_seen": "2026-09-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "k2space-vehicle-ops-5411914008": {
+      "title": "Vehicle Operations Engineering Intern – Summer 2027",
+      "company": "K2 Space",
+      "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411914008",
+      "first_seen": "2026-09-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4450835723": {
+      "title": "Mechanical Engineering Intern IV (Summer 2027) Onsite",
+      "company": "BAE Systems",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-iv-summer-2027-onsite-at-bae-systems-inc-4450835723",
+      "first_seen": "2026-09-03",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "LinkedIn ID for role already tracked as bae-me-128692BR — added for dedup"
+    },
+    "hermeus-sw-sim-445db430": {
+      "title": "Software Engineering Intern (Modeling & Simulation) – Spring/Summer 2027",
+      "company": "Hermeus",
+      "url": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936",
+      "first_seen": "2026-09-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Software role (M&S) and Spring/Summer 2027 term — low fit"
     }
   }
 }
