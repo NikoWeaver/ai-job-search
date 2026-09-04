@@ -2134,6 +2134,36 @@
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
       "notes": "Software role (M&S) and Spring/Summer 2027 term — low fit"
+    },
+    "northwoodspace-me-6081eebf": {
+      "title": "Mechanical Engineering Intern (2027 Summer Internship)",
+      "company": "Northwood Space",
+      "url": "https://jobs.ashbyhq.com/NorthwoodSpace/6081eebf-7021-4a3f-a34f-78c91c94fcd3",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Space ground station hardware company (phased array antennas for satellite comms) — LA, CA; ME design/CAD role"
+    },
+    "hermeus-me-struct-91942266": {
+      "title": "Structures/Mechanical Engineering Intern – Spring/Summer 2027",
+      "company": "Hermeus",
+      "url": "https://jobs.khoslaventures.com/companies/hermeus/jobs/91942266-structures-mechanical-engineering-intern-spring-summer-2027",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Hypersonic aircraft startup; role covers control surfaces, landing gear, avionics trays — strong ME/AE fit. Term is Spring/Summer co-op; verify if summer-only accepted before applying"
+    },
+    "shieldai-ee-intern-200a293f": {
+      "title": "Summer 2027 – Electrical Engineering Intern",
+      "company": "Shield AI",
+      "url": "https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7",
+      "first_seen": "2026-09-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Dream company (Shield AI autonomous drones); EE intern — relevant given Niko's KiCad/PCB/STM32 skills, though not core ME/AE"
     }
   }
 }
