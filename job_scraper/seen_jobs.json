@@ -2026,7 +2026,7 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Autonomous aviation startup (cargo aircraft) — term unspecified, verify before applying"
+      "notes": "Autonomous aviation startup (cargo aircraft) \u2014 term unspecified, verify before applying"
     },
     "nvidia-hw-893397027188": {
       "title": "Hardware Engineering Intern - Summer 2027",
@@ -2036,7 +2036,7 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Hardware engineering (likely silicon/systems) — not aerospace domain but genuine HW role"
+      "notes": "Hardware engineering (likely silicon/systems) \u2014 not aerospace domain but genuine HW role"
     },
     "general-matter-mfg-5376060008": {
       "title": "Summer 2027 Internship - Manufacturing Engineering",
@@ -2056,7 +2056,7 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Andover, MA — defense systems engineering"
+      "notes": "Andover, MA \u2014 defense systems engineering"
     },
     "4434368415": {
       "title": "Intern - Integration Engineering - Mechanical (Spring 2027)",
@@ -2066,7 +2066,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Spring 2027 — wrong term"
+      "notes": "Spring 2027 \u2014 wrong term"
     },
     "blueorigin-spring2027-ae-sys-grad-R66202": {
       "title": "Spring 2027 Aerospace Systems Engineering Intern (Graduate)",
@@ -2076,7 +2076,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Spring 2027 + Graduate level — wrong term and level"
+      "notes": "Spring 2027 + Graduate level \u2014 wrong term and level"
     },
     "nvidia-av-robotics-JR2023496": {
       "title": "2027 Internships: Autonomous Vehicles and Robotics",
@@ -2086,10 +2086,10 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Software/AI/ML focus — not hardware/mechanical engineering"
+      "notes": "Software/AI/ML focus \u2014 not hardware/mechanical engineering"
     },
     "k2space-dynamics-5411916008": {
-      "title": "Dynamics Engineering Intern – Summer 2027",
+      "title": "Dynamics Engineering Intern \u2013 Summer 2027",
       "company": "K2 Space",
       "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411916008",
       "first_seen": "2026-09-03",
@@ -2098,7 +2098,7 @@
       "portal": "linkedin-websearch-fallback"
     },
     "k2space-gnc-5411917008": {
-      "title": "GNC Engineering Intern – Summer 2027",
+      "title": "GNC Engineering Intern \u2013 Summer 2027",
       "company": "K2 Space",
       "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411917008",
       "first_seen": "2026-09-03",
@@ -2107,7 +2107,7 @@
       "portal": "linkedin-websearch-fallback"
     },
     "k2space-vehicle-ops-5411914008": {
-      "title": "Vehicle Operations Engineering Intern – Summer 2027",
+      "title": "Vehicle Operations Engineering Intern \u2013 Summer 2027",
       "company": "K2 Space",
       "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411914008",
       "first_seen": "2026-09-03",
@@ -2123,17 +2123,17 @@
       "fit": "high",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "LinkedIn ID for role already tracked as bae-me-128692BR — added for dedup"
+      "notes": "LinkedIn ID for role already tracked as bae-me-128692BR \u2014 added for dedup"
     },
     "hermeus-sw-sim-445db430": {
-      "title": "Software Engineering Intern (Modeling & Simulation) – Spring/Summer 2027",
+      "title": "Software Engineering Intern (Modeling & Simulation) \u2013 Spring/Summer 2027",
       "company": "Hermeus",
       "url": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936",
       "first_seen": "2026-09-03",
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Software role (M&S) and Spring/Summer 2027 term — low fit"
+      "notes": "Software role (M&S) and Spring/Summer 2027 term \u2014 low fit"
     },
     "northwoodspace-me-6081eebf": {
       "title": "Mechanical Engineering Intern (2027 Summer Internship)",
@@ -2143,27 +2143,47 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Space ground station hardware company (phased array antennas for satellite comms) — LA, CA; ME design/CAD role"
+      "notes": "Space ground station hardware company (phased array antennas for satellite comms) \u2014 LA, CA; ME design/CAD role"
     },
     "hermeus-me-struct-91942266": {
-      "title": "Structures/Mechanical Engineering Intern – Spring/Summer 2027",
+      "title": "Structures/Mechanical Engineering Intern \u2013 Spring/Summer 2027",
       "company": "Hermeus",
       "url": "https://jobs.khoslaventures.com/companies/hermeus/jobs/91942266-structures-mechanical-engineering-intern-spring-summer-2027",
       "first_seen": "2026-09-04",
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Hypersonic aircraft startup; role covers control surfaces, landing gear, avionics trays — strong ME/AE fit. Term is Spring/Summer co-op; verify if summer-only accepted before applying"
+      "notes": "Hypersonic aircraft startup; role covers control surfaces, landing gear, avionics trays \u2014 strong ME/AE fit. Term is Spring/Summer co-op; verify if summer-only accepted before applying"
     },
     "shieldai-ee-intern-200a293f": {
-      "title": "Summer 2027 – Electrical Engineering Intern",
+      "title": "Summer 2027 \u2013 Electrical Engineering Intern",
       "company": "Shield AI",
       "url": "https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7",
       "first_seen": "2026-09-04",
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Dream company (Shield AI autonomous drones); EE intern — relevant given Niko's KiCad/PCB/STM32 skills, though not core ME/AE"
+      "notes": "Dream company (Shield AI autonomous drones); EE intern \u2014 relevant given Niko's KiCad/PCB/STM32 skills, though not core ME/AE"
+    },
+    "4462089765": {
+      "title": "ISC URDP - Engineering - Summer 2027 Intern",
+      "company": "Honeywell Aerospace",
+      "url": "https://www.linkedin.com/jobs/view/isc-urdp-engineering-summer-2027-intern-phoenix-az-u-s-person-required-at-honeywell-aerospace-4462089765",
+      "first_seen": "2026-09-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Supply chain/operations engineering role; graduation date requirement Dec 2026-Jun 2027 is a mismatch (Niko graduates May 2028)"
+    },
+    "4462487267": {
+      "title": "Software Engineering Intern (Summer 2027)",
+      "company": "Collins Aerospace",
+      "url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-collins-aerospace-4462487267",
+      "first_seen": "2026-09-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Pure software role \u2014 deal-breaker"
     }
   }
 }
