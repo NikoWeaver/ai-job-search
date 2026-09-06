@@ -2184,6 +2184,15 @@
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
       "notes": "Pure software role \u2014 deal-breaker"
+    },
+    "4459572748": {
+      "title": "Summer 2027 Structural & Mechanical Engineering Internship (Undergraduate)",
+      "company": "Blue Origin",
+      "url": "https://www.linkedin.com/jobs/view/summer-2027-structural-mechanical-engineering-internship-undergraduate-at-blue-origin-4459572748",
+      "first_seen": "2026-09-06",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
