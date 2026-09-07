@@ -2193,6 +2193,42 @@
       "fit": "high",
       "status": "new",
       "portal": "linkedin-websearch-fallback"
+    },
+    "4460807454": {
+      "title": "2027 Intern Vehicle Engineering - CA OK ND",
+      "company": "Northrop Grumman",
+      "url": "https://www.linkedin.com/jobs/view/2027-intern-vehicle-engineering-ca-ok-nd-at-northrop-grumman-4460807454",
+      "first_seen": "2026-09-07",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4448464847": {
+      "title": "2027 Intern Vehicle Engineering",
+      "company": "Northrop Grumman",
+      "url": "https://www.linkedin.com/jobs/view/2027-intern-vehicle-engineering-at-northrop-grumman-4448464847",
+      "first_seen": "2026-09-07",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4451306255": {
+      "title": "2027 Operations Manufacturing Engineering Intern",
+      "company": "Northrop Grumman",
+      "url": "https://www.linkedin.com/jobs/view/2027-operations-manufacturing-engineering-intern-at-northrop-grumman-4451306255",
+      "first_seen": "2026-09-07",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4051887408": {
+      "title": "Product Design Engineer Intern",
+      "company": "Skydio",
+      "url": "https://www.linkedin.com/jobs/view/product-design-engineer-intern-at-skydio-4051887408",
+      "first_seen": "2026-09-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
