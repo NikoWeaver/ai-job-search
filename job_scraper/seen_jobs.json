@@ -2229,6 +2229,24 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback"
+    },
+    "4453144833": {
+      "title": "Mechanical Engineer Intern/Co-op Summer 2027",
+      "company": "CMTA Inc",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-intern-co-op-summer-2027-at-cmta-inc-4453144833",
+      "first_seen": "2026-09-08",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "4460119304": {
+      "title": "Summer Intern/Co-op Mechanical Engineering (2027)",
+      "company": "Air Products",
+      "url": "https://www.linkedin.com/jobs/view/summer-intern-co-op-mechanical-engineering-2027-at-air-products-4460119304",
+      "first_seen": "2026-09-08",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
