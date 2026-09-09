@@ -2247,6 +2247,26 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback"
+    },
+    "amca-me-s2027-4396629009": {
+      "title": "Mechanical Engineering Intern (Summer 2027)",
+      "company": "Amca",
+      "url": "https://job-boards.greenhouse.io/amca/jobs/4396629009",
+      "first_seen": "2026-09-09",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Aerospace manufacturer (F-35, 787 components); El Segundo, CA; own hardware project concept through prototype"
+    },
+    "shieldai-mfg-c41c41a2": {
+      "title": "Summer 2027 - Advanced Manufacturing Engineering Intern",
+      "company": "Shield AI",
+      "url": "https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
+      "first_seen": "2026-09-09",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Dream company (autonomous drones); manufacturing engineering track — Dallas TX; not core ME/AE but Shield AI"
     }
   }
 }
