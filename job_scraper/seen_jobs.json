@@ -2267,6 +2267,46 @@
       "status": "new",
       "portal": "linkedin-websearch-fallback",
       "notes": "Dream company (autonomous drones); manufacturing engineering track — Dallas TX; not core ME/AE but Shield AI"
+    },
+    "hermeus-test-91942268": {
+      "title": "Subsystem Test Engineering Intern – Spring/Summer 2027",
+      "company": "Hermeus",
+      "url": "https://jobs.revolution.com/companies/hermeus/jobs/91942268-subsystem-test-engineering-intern-spring-summer-2027",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Hypersonic aircraft startup; test engineering on hydraulics, fuel systems, airframe structural — ME/AE adjacent. Spring/Summer co-op; verify if summer-only is accepted"
+    },
+    "hermeus-mission-sys-9229aa88": {
+      "title": "Mission Systems Engineering Intern – Spring/Summer 2027",
+      "company": "Hermeus",
+      "url": "https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Hypersonic aircraft startup; systems engineering role covering vehicle mission integration — Spring/Summer 2027 co-op"
+    },
+    "hermeus-struct-lever-60b5d40a": {
+      "title": "Structures/Mechanical Engineering Intern – Spring/Summer 2027",
+      "company": "Hermeus",
+      "url": "https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Lever URL for role already tracked as hermeus-me-struct-91942266 — added for dedup"
+    },
+    "hermeus-flight-ops-944918b0": {
+      "title": "Flight Operations & Airworthiness Engineering Intern – Spring/Summer/Fall 2027",
+      "company": "Hermeus",
+      "url": "https://jobs.lever.co/hermeus/944918b0-17ca-46ec-9413-5acd7086addf",
+      "first_seen": "2026-09-10",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Flight operations/airworthiness focus — not core ME/AE design; multi-term role (Spring/Summer/Fall 2027)"
     }
   }
 }
