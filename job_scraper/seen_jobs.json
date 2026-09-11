@@ -2307,6 +2307,66 @@
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
       "notes": "Flight operations/airworthiness focus — not core ME/AE design; multi-term role (Spring/Summer/Fall 2027)"
+    },
+    "stoke-summer2027-eng-6175828004": {
+      "title": "Summer 2027 Internship - Engineering",
+      "company": "Stoke Space",
+      "url": "https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6175828004",
+      "first_seen": "2026-09-11",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "ME/AE/EE/CS engineering tracks; Kent WA, Moses Lake WA, or Cape Canaveral FL; min 10-14 weeks starting May 2027; ITAR; URGENT — applications close September 13 2026"
+    },
+    "blueorigin-summer2027-test-ug-R71433": {
+      "title": "Summer 2027 Test Engineering Internship - Undergraduate",
+      "company": "Blue Origin",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Summer-2027-Test-Engineering-Internship---Undergraduate_R71433",
+      "first_seen": "2026-09-11",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Greater Seattle Area; test engineering across fluid, propulsion, mechanical, avionics, structures, GNC systems; ITAR; rolling basis"
+    },
+    "blueorigin-summer2027-mfg-ug-R71428": {
+      "title": "Summer 2027 Manufacturing Engineering Internship - Undergraduate",
+      "company": "Blue Origin",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Summer-2027-Manufacturing-Engineering-Internship---Undergraduate_R71428",
+      "first_seen": "2026-09-11",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Space Coast FL; design for manufacturing, test, operations, materials & processes; ITAR; rolling basis"
+    },
+    "ng-1340074126350": {
+      "title": "2027 Industrial Engineering Intern",
+      "company": "Northrop Grumman",
+      "url": "https://jobs.northropgrumman.com/careers/job/1340074126350-2027-industrial-engineering-intern-united-states-mississippi-iuka?domain=ngc.com",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Industrial engineering in Iuka, Mississippi — not core ME/AE domain or CA preferred location"
+    },
+    "4462849493": {
+      "title": "Mechanical Engineering Internship (Spring or Summer 2027)",
+      "company": "Outsiders Fund",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-internship-spring-or-summer-2027-at-outsiders-fund-4462849493",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "VC/finance firm — not aerospace/robotics domain"
+    },
+    "skydio-ae-cv-ae4a6f7d": {
+      "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027",
+      "company": "Skydio",
+      "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
+      "first_seen": "2026-09-11",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Software/CV/ML role — not hardware/ME fit"
     }
   }
 }
