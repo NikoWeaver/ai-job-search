@@ -2367,6 +2367,26 @@
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
       "notes": "Software/CV/ML role — not hardware/ME fit"
+    },
+    "aerovironment-aeromech-s2027-10958096": {
+      "title": "Summer 2027 Aeromechanical Engineering Intern",
+      "company": "AeroVironment",
+      "url": "https://www.builtinaustin.com/job/summer-2027-aeromechanical-engineering-intern/10958096",
+      "first_seen": "2026-09-12",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Major UAS/drone manufacturer (Puma, Switchblade, RQ-20); SolidWorks CAD, mechanical analysis, prototyping, lab testing; Simi Valley CA and Austin TX locations; salary $25-39k with relocation"
+    },
+    "rtx-rf-mech-01871998": {
+      "title": "RF Mechanical Engineer Intern (Summer 2027)",
+      "company": "RTX / Raytheon",
+      "url": "https://careers.rtx.com/global/en/job/01871998/RF-Mechanical-Engineer-Intern-Summer-2027-Onsite",
+      "first_seen": "2026-09-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Tucson, AZ; RF antenna hardware mechanical design at Raytheon Missiles & Defense; requires U.S. citizenship and ability to obtain clearance"
     }
   }
 }
