@@ -2387,6 +2387,36 @@
       "status": "new",
       "portal": "linkedin-websearch-fallback",
       "notes": "Tucson, AZ; RF antenna hardware mechanical design at Raytheon Missiles & Defense; requires U.S. citizenship and ability to obtain clearance"
+    },
+    "apex-technology-53eaeee7": {
+      "title": "Mechanical Engineering Internship (Spring or Summer 2027)",
+      "company": "Apex Technology, Inc.",
+      "url": "https://jobs.ashbyhq.com/apex-technology-inc/53eaeee7-bf54-4068-9d5d-f14375d8dcaa",
+      "first_seen": "2026-09-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Satellite bus manufacturer (earth observation, comms); ME/hardware focus on designing and building spacecraft components; Spring or Summer 2027 co-op — verify if summer-only is accepted"
+    },
+    "astranis-gh-4704601006": {
+      "title": "Mechanical Engineer Intern (Summer 2027)",
+      "company": "Astranis",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704601006",
+      "first_seen": "2026-09-13",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Greenhouse canonical URL for role already tracked as astranis-me-summer-2027 — added for dedup"
+    },
+    "stoke-sw-6176786004": {
+      "title": "Summer 2027 Internship - Software",
+      "company": "Stoke Space",
+      "url": "https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6176786004",
+      "first_seen": "2026-09-13",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Pure software role — deal-breaker"
     }
   }
 }
