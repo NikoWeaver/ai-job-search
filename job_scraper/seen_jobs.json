@@ -2417,6 +2417,86 @@
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
       "notes": "Pure software role — deal-breaker"
+    },
+    "ula-ae-1427399400": {
+      "title": "Aerospace Engineering Internship (Summer 2027)",
+      "company": "United Launch Alliance",
+      "url": "https://jobs.ulalaunch.com/job/Centennial-Aerospace-Engineering-Internship-Summer-2027-CO-80112/1427399400/",
+      "first_seen": "2026-09-14",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Centennial CO; AE intern covering analysis, design, testing, systems engineering, launch ops; $23-38/hr; min 3.0 GPA sophomore+; 10 weeks min; US premier launch provider"
+    },
+    "ula-composite-summer2027": {
+      "title": "Composite Engineering Internship (Summer 2027)",
+      "company": "United Launch Alliance",
+      "url": "https://workopia.io/jobs/bdd7bdc312f9cdb8dc58b0af69f2424b",
+      "first_seen": "2026-09-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Centennial CO; composites/materials manufacturing engineering; part of ULA summer intern cohort — verify canonical URL at jobs.ulalaunch.com/go/INTERNSHIPS"
+    },
+    "ula-quality-summer2027": {
+      "title": "Quality Engineering Internship (Summer 2027)",
+      "company": "United Launch Alliance",
+      "url": "https://workopia.io/jobs/ec53b68a70d9865cbe4e17fa6b325fe0",
+      "first_seen": "2026-09-14",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Quality engineering — less direct ME/AE fit; Centennial, CO"
+    },
+    "ula-avionics-summer2027": {
+      "title": "Avionics & Electrical Engineering Internship (Summer 2027)",
+      "company": "United Launch Alliance",
+      "url": "https://workopia.io/jobs/712a0f0fc6c208ded8c4d53899c53350",
+      "first_seen": "2026-09-14",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "EE/avionics focus — not core ME/AE; Centennial, CO"
+    },
+    "impulse-prop-b6a1ebef": {
+      "title": "Propulsion Engineering Intern (Summer 2027)",
+      "company": "Impulse Space",
+      "url": "https://impulsespace.pinpointhq.com/postings/b6a1ebef-960b-490d-baf0-db078cfcaa0c",
+      "first_seen": "2026-09-14",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "In-space transportation startup (founded by SpaceX Merlin engine lead Tom Mueller); Redondo Beach CA; 12 weeks onsite; fluid/mechanical systems; ITAR (US citizen required); $23-38/hr"
+    },
+    "impulse-eprop-799415b1": {
+      "title": "Electric Propulsion Engineering Intern (Summer 2027)",
+      "company": "Impulse Space",
+      "url": "https://impulsespace.pinpointhq.com/en/postings/799415b1-cc28-47df-b47c-9fea065e5ef8",
+      "first_seen": "2026-09-14",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "In-space transportation startup; Redondo Beach CA; electric propulsion (Hall effect thrusters, ion engines); ITAR (US citizen required); 12 weeks onsite"
+    },
+    "impulse-ait-59b09673": {
+      "title": "Assembly, Integration & Test Engineering Intern (Summer 2027)",
+      "company": "Impulse Space",
+      "url": "https://impulsespace.pinpointhq.com/postings/59b09673-de5e-4ffc-a976-8ebdb3bb8d56",
+      "first_seen": "2026-09-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "In-space transportation startup; Redondo Beach CA; hardware integration and functional testing; ITAR (US citizen required)"
+    },
+    "impulse-ops-65b48a6e": {
+      "title": "Space Operations Engineering Intern (Summer 2027)",
+      "company": "Impulse Space",
+      "url": "https://impulsespace.pinpointhq.com/postings/65b48a6e-c427-4362-afad-7b9010d331ea",
+      "first_seen": "2026-09-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "In-space transportation startup; Redondo Beach CA; mission operations for orbital transport vehicles (Helios/Mira); ITAR (US citizen required)"
     }
   }
 }
