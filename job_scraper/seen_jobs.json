@@ -2497,6 +2497,46 @@
       "status": "new",
       "portal": "linkedin-websearch-fallback",
       "notes": "In-space transportation startup; Redondo Beach CA; mission operations for orbital transport vehicles (Helios/Mira); ITAR (US citizen required)"
+    },
+    "apex-thermal-56b018ce": {
+      "title": "Thermal Engineering Internship (Spring or Summer 2027)",
+      "company": "Apex Technology, Inc.",
+      "url": "https://jobs.ashbyhq.com/apex-technology-inc/56b018ce-915d-4ebd-9833-c8ebb160b09a",
+      "first_seen": "2026-09-15",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Satellite bus manufacturer; thermal engineering for spacecraft hardware — ME-adjacent with strong hardware focus. Spring or Summer 2027 co-op; verify if summer-only is accepted before applying"
+    },
+    "avav-systems-test-b1e2001e": {
+      "title": "Summer 2027 Systems Engineering/Test Intern",
+      "company": "AeroVironment",
+      "url": "https://zapply.jobs/jobs/b1e2001e-c831-470c-b92c-043ea5de3c9c/",
+      "first_seen": "2026-09-15",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Major UAS/drone manufacturer (Puma, Switchblade); systems engineering & test role — adjacent to the aeromechanical intern already tracked (aerovironment-aeromech-s2027-10958096). Verify canonical AV careers URL."
+    },
+    "skydio-pde-e541e878": {
+      "title": "Product Design Engineer Intern - Summer 2027",
+      "company": "Skydio",
+      "url": "https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Ashby canonical URL for role already tracked under LinkedIn ID 4051887408 — added for dedup"
+    },
+    "avav-me-zapply-79e77ec5": {
+      "title": "Mechanical Engineering Intern - Summer 2027",
+      "company": "AeroVironment",
+      "url": "https://zapply.jobs/jobs/79e77ec5-a22e-4e17-a8af-b4d19baa4138/",
+      "first_seen": "2026-09-15",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Zapply aggregator URL for role already tracked as aerovironment-aeromech-s2027-10958096 — added for dedup"
     }
   }
 }
