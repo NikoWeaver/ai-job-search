@@ -2573,6 +2573,26 @@
       "fit": "medium",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback"
+    },
+    "rtx-me-s2027-richardson": {
+      "title": "Mechanical Engineering Intern (Summer 2027)",
+      "company": "RTX / Raytheon",
+      "url": "https://careers.rtx.com/global/en/job/01873704/Mechanical-Engineering-Intern-Summer-2027",
+      "first_seen": "2026-09-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Richardson, TX; Raytheon Collins division; summer 2027 onsite"
+    },
+    "rtx-structures-s2027-01872690": {
+      "title": "Structures Intern (Summer 2027)",
+      "company": "RTX / Pratt & Whitney",
+      "url": "https://careers.rtx.com/global/en/job/01872690/Structures-Intern-Summer-2027-Onsite",
+      "first_seen": "2026-09-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "North Berwick, ME; Pratt & Whitney; structures engineering onsite"
     }
   }
 }
