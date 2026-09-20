@@ -2593,6 +2593,46 @@
       "status": "new",
       "portal": "linkedin-websearch-fallback",
       "notes": "North Berwick, ME; Pratt & Whitney; structures engineering onsite"
+    },
+    "rocketlab-turbo-7987208003": {
+      "title": "Turbomachinery Intern Summer 2027",
+      "company": "Rocket Lab",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987208003",
+      "first_seen": "2026-09-20",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Long Beach CA; propulsion turbomachinery design/test; NX/Teamcenter CAD; US person required (ITAR); $25/hr; 12 weeks min starting May/Jun 2027"
+    },
+    "rocketlab-me-lb-826feb64": {
+      "title": "Mechanical Engineering Intern Summer 2027 (Long Beach)",
+      "company": "Rocket Lab",
+      "url": "https://zapply.jobs/jobs/826feb64-ab4b-4c1f-97c4-f8531d6b644d/",
+      "first_seen": "2026-09-20",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Long Beach CA; hardware design & test for spacecraft; NX/Teamcenter CAD; US person required (ITAR); $25/hr; verify canonical URL at job-boards.greenhouse.io/rocketlab"
+    },
+    "rocketlab-me-ss-86802f21": {
+      "title": "Mechanical Engineering Intern Summer 2027 (Silver Spring, MD)",
+      "company": "Rocket Lab",
+      "url": "https://www.sonara.ai/job-details/mechanical-engineering-intern-summer-2027-at-rocket-lab-usa-86802f21-1a72-b287-5385-8cbad8ecdb79",
+      "first_seen": "2026-09-20",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Silver Spring MD; Space Systems Division flight mechanisms for Separation Systems; NX/Teamcenter CAD; US person required (ITAR); $25/hr; East Coast location"
+    },
+    "skydio-fti-3eb06d6e": {
+      "title": "Flight Test Intern Summer 2027",
+      "company": "Skydio",
+      "url": "https://jobs.ashbyhq.com/skydio/3eb06d6e-b6f0-4814-a80a-f1c43075873b",
+      "first_seen": "2026-09-20",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "San Mateo CA; software QA / flight data collection focus (smoke tests, regression, software feature validation) — not hardware/ME engineering role"
     }
   }
 }
