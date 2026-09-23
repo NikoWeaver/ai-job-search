@@ -2653,6 +2653,36 @@
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
       "notes": "Greenhouse canonical URL for role already tracked as rocketlab-me-ss-86802f21 (Silver Spring MD, Space Systems Division) — added for dedup"
+    },
+    "4466587295": {
+      "title": "Robotics Engineering Intern - Summer 2027",
+      "company": "Lunar Outpost",
+      "url": "https://www.linkedin.com/jobs/view/robotics-engineering-intern-summer-2027-at-lunar-outpost-4466587295",
+      "first_seen": "2026-09-23",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Space robotics company (lunar rovers); Golden CO; software-heavy role (C++/Python/ROS2/SLAM/motion planning) — not hardware/ME design; deal-breaker threshold"
+    },
+    "lunar-outpost-test-s2027": {
+      "title": "Test Engineering Intern - Summer 2027",
+      "company": "Lunar Outpost",
+      "url": "https://zapply.jobs/jobs/969a24aa-2a3a-4abe-8c35-6d0c15e22f72/",
+      "first_seen": "2026-09-23",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Space robotics company (lunar rovers); Golden CO; test & validation engineering — confirm term and citizenship requirements before applying"
+    },
+    "lunar-outpost-ee-s2027": {
+      "title": "Electrical Engineering Intern - Summer 2027",
+      "company": "Lunar Outpost",
+      "url": "https://zapply.jobs/jobs/fafc18a3-727d-4c67-bb13-0d54add07f65/",
+      "first_seen": "2026-09-23",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "EE focus — not core ME/AE engineering role"
     }
   }
 }
