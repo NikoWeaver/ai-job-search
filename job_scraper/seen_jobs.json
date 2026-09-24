@@ -2632,7 +2632,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "San Mateo CA; software QA / flight data collection focus (smoke tests, regression, software feature validation) — not hardware/ME engineering role"
+      "notes": "San Mateo CA; software QA / flight data collection focus (smoke tests, regression, software feature validation) \u2014 not hardware/ME engineering role"
     },
     "4469125569": {
       "title": "Flight Controls Systems Engineering Intern (Summer 2027)",
@@ -2652,7 +2652,7 @@
       "fit": "high",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Greenhouse canonical URL for role already tracked as rocketlab-me-ss-86802f21 (Silver Spring MD, Space Systems Division) — added for dedup"
+      "notes": "Greenhouse canonical URL for role already tracked as rocketlab-me-ss-86802f21 (Silver Spring MD, Space Systems Division) \u2014 added for dedup"
     },
     "4466587295": {
       "title": "Robotics Engineering Intern - Summer 2027",
@@ -2662,7 +2662,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Space robotics company (lunar rovers); Golden CO; software-heavy role (C++/Python/ROS2/SLAM/motion planning) — not hardware/ME design; deal-breaker threshold"
+      "notes": "Space robotics company (lunar rovers); Golden CO; software-heavy role (C++/Python/ROS2/SLAM/motion planning) \u2014 not hardware/ME design; deal-breaker threshold"
     },
     "lunar-outpost-test-s2027": {
       "title": "Test Engineering Intern - Summer 2027",
@@ -2672,7 +2672,7 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Space robotics company (lunar rovers); Golden CO; test & validation engineering — confirm term and citizenship requirements before applying"
+      "notes": "Space robotics company (lunar rovers); Golden CO; test & validation engineering \u2014 confirm term and citizenship requirements before applying"
     },
     "lunar-outpost-ee-s2027": {
       "title": "Electrical Engineering Intern - Summer 2027",
@@ -2682,7 +2682,47 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "EE focus — not core ME/AE engineering role"
+      "notes": "EE focus \u2014 not core ME/AE engineering role"
+    },
+    "4470210472": {
+      "title": "Summer 2027 - Mechanical Engineering Intern",
+      "company": "Shield AI",
+      "url": "https://www.linkedin.com/jobs/view/summer-2027-mechanical-engineering-intern-at-shield-ai-4470210472",
+      "first_seen": "2026-09-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Dream company (defense autonomy); Summer 2027 ME intern; posted ~3 days ago"
+    },
+    "4448610675": {
+      "title": "Summer 2027 Engineering Internship/Co-op",
+      "company": "SpaceX",
+      "url": "https://www.linkedin.com/jobs/view/summer-2027-engineering-internship-co-op-at-spacex-4448610675",
+      "first_seen": "2026-09-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Dream company #1; Summer 2027 engineering internship; U.S. Person required (cannot sponsor F-1); prefers 3.5+ GPA; Greenhouse posting also available at job-boards.greenhouse.io/spacex/jobs/8621740002"
+    },
+    "4459834406": {
+      "title": "Summer 2027 Internship - Mechanical Engineering",
+      "company": "General Matter",
+      "url": "https://www.linkedin.com/jobs/view/summer-2027-internship-mechanical-engineering-at-general-matter-4459834406",
+      "first_seen": "2026-09-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Nuclear uranium enrichment startup; hardware ME role \u2014 design/build/test mechanisms for enrichment technology; $30-40/hr + housing stipend; not aerospace/robotics but genuine hardware engineering"
+    },
+    "4460528962": {
+      "title": "Software AI Intern - Summer 2027",
+      "company": "Honeywell Aerospace",
+      "url": "https://www.linkedin.com/jobs/view/software-ai-intern-summer-2027-at-honeywell-aerospace-4460528962",
+      "first_seen": "2026-09-24",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Software/AI focus \u2014 deal-breaker for pure software role"
     }
   }
 }
