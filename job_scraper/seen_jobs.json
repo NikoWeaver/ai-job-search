@@ -2733,6 +2733,16 @@
       "status": "new",
       "portal": "linkedin-websearch-fallback",
       "notes": "Cape Canaveral FL; ME internship at premier US launch provider; different location from ula-ae-1427399400 (Centennial CO AE role); min 3.0 GPA sophomore+"
+    },
+    "shieldai-me-da54c482": {
+      "title": "Summer 2027 - Mechanical Engineering Intern",
+      "company": "Shield AI",
+      "url": "https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc",
+      "first_seen": "2026-09-26",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Lever canonical URL for role already tracked as 4470210472 — added for dedup"
     }
   }
 }
