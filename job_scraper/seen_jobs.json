@@ -2743,6 +2743,36 @@
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
       "notes": "Lever canonical URL for role already tracked as 4470210472 — added for dedup"
+    },
+    "joby-me-structures-4761": {
+      "title": "Mechanical Design Engineer Intern, Structures",
+      "company": "Joby Aviation",
+      "url": "https://careers-jobyaviation.icims.com/jobs/4761/mechanical-design-engineer-intern,-structures/job",
+      "first_seen": "2026-09-28",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Dream company (eVTOL air taxi); structures design intern; CATIA CAD preferred; $22-31/hr UG; term unconfirmed — verify Summer 2027 before applying"
+    },
+    "l3harris-me-palm-bay-99756757968": {
+      "title": "Intern, Mechanical Engineer",
+      "company": "L3Harris Technologies",
+      "url": "https://careers.l3harris.com/en/job/palm-bay/intern-mechanical-engineer/4832/99756757968",
+      "first_seen": "2026-09-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Defense/ISR company; Palm Bay FL; ME intern supporting new product development and factory; term unconfirmed — verify Summer 2027 before applying"
+    },
+    "4302550768": {
+      "title": "Mechanical Engineering Intern (Rochester, NY)",
+      "company": "L3Harris Technologies",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-rochester-ny-at-l3harris-technologies-4302550768",
+      "first_seen": "2026-09-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Defense/EW/ISR company; Rochester NY; $22-40.50/hr; term unconfirmed — verify Summer 2027 before applying"
     }
   }
 }
