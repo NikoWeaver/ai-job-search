@@ -2773,6 +2773,56 @@
       "status": "new",
       "portal": "linkedin-websearch-fallback",
       "notes": "Defense/EW/ISR company; Rochester NY; $22-40.50/hr; term unconfirmed — verify Summer 2027 before applying"
+    },
+    "gulfstream-ief-1421724400": {
+      "title": "Summer 2027 IEF Engineer Collegiate Associate Intern",
+      "company": "Gulfstream Aerospace",
+      "url": "https://careers.gulfstream.com/job/savannah-summer-2027-ief-engineer-collegiate-associate-intern-ga-31401/1421724400",
+      "first_seen": "2026-09-29",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Savannah GA; general IEF (Integrated Engineering Function) engineering role — different from ASMI variant tracked at 4451887043; structures, systems, or aero track TBD"
+    },
+    "honeywell-me-10859351": {
+      "title": "Mechanical Engineering Summer 2027 Intern",
+      "company": "Honeywell Aerospace",
+      "url": "https://www.builtinla.com/job/mechanical-engineering-summer-2027-intern/10859351",
+      "first_seen": "2026-09-29",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "LA area (likely Torrance CA); Honeywell Aerospace ME role — have systems/test/ISC Honeywell roles but not a dedicated ME one; CA location is preferred"
+    },
+    "gulfstream-ops-1424366600": {
+      "title": "Summer 2027 Operations Engineer Collegiate Associate Intern (St. Louis)",
+      "company": "Gulfstream Aerospace",
+      "url": "https://careers.gulfstream.com/job/St_-Louis-Summer-2027-Operations-Engineer-Collegiate-Associate-Intern-MO-63101/1424366600/",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Operations engineering in St. Louis MO — not core ME/AE design; not California preferred location"
+    },
+    "spirit-defense-liaison-100378295328": {
+      "title": "Spirit Defense Summer 2027 Internship - Liaison Engineering",
+      "company": "Boeing / Spirit Defense",
+      "url": "https://jobs.boeing.com/job/wichita/spirit-defense-summer-2027-internship-program-paid-liaison-engineering/185/100378295328",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Wichita KS; liaison engineering (manufacturing/production interface) — not core ME/AE design"
+    },
+    "anduril-hw-92711693-ireland": {
+      "title": "2027 Hardware Engineer Intern (Dublin, Ireland)",
+      "company": "Anduril Industries",
+      "url": "https://jobs.generalcatalyst.com/companies/anduril/jobs/92711693-2027-hardware-engineer-intern",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Dublin, Ireland location — not US-based; Voyager team PCB/embedded firmware role; deal-breaker (must be in-person US)"
     }
   }
 }
