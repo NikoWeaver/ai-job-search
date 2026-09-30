@@ -2823,6 +2823,16 @@
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
       "notes": "Dublin, Ireland location — not US-based; Voyager team PCB/embedded firmware role; deal-breaker (must be in-person US)"
+    },
+    "4462739654": {
+      "title": "RF Design Engineer Intern (Summer 2027)(Onsite)",
+      "company": "Raytheon",
+      "url": "https://www.linkedin.com/jobs/view/rf-design-engineer-intern-summer-2027-onsite-at-raytheon-4462739654",
+      "first_seen": "2026-09-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "RF/electrical engineering role — not core ME/AE; Raytheon is a target company but this track is out of domain"
     }
   }
 }
