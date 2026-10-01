@@ -2742,7 +2742,7 @@
       "fit": "high",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Lever canonical URL for role already tracked as 4470210472 — added for dedup"
+      "notes": "Lever canonical URL for role already tracked as 4470210472 \u2014 added for dedup"
     },
     "joby-me-structures-4761": {
       "title": "Mechanical Design Engineer Intern, Structures",
@@ -2752,7 +2752,7 @@
       "fit": "high",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Dream company (eVTOL air taxi); structures design intern; CATIA CAD preferred; $22-31/hr UG; term unconfirmed — verify Summer 2027 before applying"
+      "notes": "Dream company (eVTOL air taxi); structures design intern; CATIA CAD preferred; $22-31/hr UG; term unconfirmed \u2014 verify Summer 2027 before applying"
     },
     "l3harris-me-palm-bay-99756757968": {
       "title": "Intern, Mechanical Engineer",
@@ -2762,7 +2762,7 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Defense/ISR company; Palm Bay FL; ME intern supporting new product development and factory; term unconfirmed — verify Summer 2027 before applying"
+      "notes": "Defense/ISR company; Palm Bay FL; ME intern supporting new product development and factory; term unconfirmed \u2014 verify Summer 2027 before applying"
     },
     "4302550768": {
       "title": "Mechanical Engineering Intern (Rochester, NY)",
@@ -2772,7 +2772,7 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Defense/EW/ISR company; Rochester NY; $22-40.50/hr; term unconfirmed — verify Summer 2027 before applying"
+      "notes": "Defense/EW/ISR company; Rochester NY; $22-40.50/hr; term unconfirmed \u2014 verify Summer 2027 before applying"
     },
     "gulfstream-ief-1421724400": {
       "title": "Summer 2027 IEF Engineer Collegiate Associate Intern",
@@ -2782,7 +2782,7 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Savannah GA; general IEF (Integrated Engineering Function) engineering role — different from ASMI variant tracked at 4451887043; structures, systems, or aero track TBD"
+      "notes": "Savannah GA; general IEF (Integrated Engineering Function) engineering role \u2014 different from ASMI variant tracked at 4451887043; structures, systems, or aero track TBD"
     },
     "honeywell-me-10859351": {
       "title": "Mechanical Engineering Summer 2027 Intern",
@@ -2792,7 +2792,7 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "LA area (likely Torrance CA); Honeywell Aerospace ME role — have systems/test/ISC Honeywell roles but not a dedicated ME one; CA location is preferred"
+      "notes": "LA area (likely Torrance CA); Honeywell Aerospace ME role \u2014 have systems/test/ISC Honeywell roles but not a dedicated ME one; CA location is preferred"
     },
     "gulfstream-ops-1424366600": {
       "title": "Summer 2027 Operations Engineer Collegiate Associate Intern (St. Louis)",
@@ -2802,7 +2802,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Operations engineering in St. Louis MO — not core ME/AE design; not California preferred location"
+      "notes": "Operations engineering in St. Louis MO \u2014 not core ME/AE design; not California preferred location"
     },
     "spirit-defense-liaison-100378295328": {
       "title": "Spirit Defense Summer 2027 Internship - Liaison Engineering",
@@ -2812,7 +2812,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Wichita KS; liaison engineering (manufacturing/production interface) — not core ME/AE design"
+      "notes": "Wichita KS; liaison engineering (manufacturing/production interface) \u2014 not core ME/AE design"
     },
     "anduril-hw-92711693-ireland": {
       "title": "2027 Hardware Engineer Intern (Dublin, Ireland)",
@@ -2822,7 +2822,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Dublin, Ireland location — not US-based; Voyager team PCB/embedded firmware role; deal-breaker (must be in-person US)"
+      "notes": "Dublin, Ireland location \u2014 not US-based; Voyager team PCB/embedded firmware role; deal-breaker (must be in-person US)"
     },
     "4462739654": {
       "title": "RF Design Engineer Intern (Summer 2027)(Onsite)",
@@ -2832,7 +2832,61 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "RF/electrical engineering role — not core ME/AE; Raytheon is a target company but this track is out of domain"
+      "notes": "RF/electrical engineering role \u2014 not core ME/AE; Raytheon is a target company but this track is out of domain"
+    },
+    "spirit-defense-core-100378295648": {
+      "title": "Spirit Defense Summer 2027 Internship Program (Paid) - Core Engineering - Research & Technology",
+      "company": "Spirit Defense (Boeing)",
+      "url": "https://jobs.boeing.com/job/wichita/spirit-defense-summer-2027-internship-program-paid-core-engineering-research-and-technology/185/100378295648",
+      "first_seen": "2026-10-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "scaled-composites-eng-summer2027": {
+      "title": "Summer 2027 Engineering Intern",
+      "company": "Scaled Composites",
+      "url": "https://www.clearancejobs.com/profiles/1453633/scaled-composites-llc-jobs",
+      "first_seen": "2026-10-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "freeform-me-summer-2027": {
+      "title": "Mechanical Engineering Intern (Summer 2027)",
+      "company": "Freeform Future Corp",
+      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7605514003",
+      "first_seen": "2026-10-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "westinghouse-me-sc-2027": {
+      "title": "Summer Intern - Mechanical Engineering",
+      "company": "Westinghouse Nuclear",
+      "url": "https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Mechanical-Engineering-SC-29730/1425166700/",
+      "first_seen": "2026-10-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "foth-me-mehoopany-2027": {
+      "title": "Mechanical Engineering Intern (Summer 2027)",
+      "company": "Foth",
+      "url": "https://jobs.lever.co/foth/6cc70042-0140-4979-9878-828edf973a83",
+      "first_seen": "2026-10-01",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "foth-pkg-greenbay-2027": {
+      "title": "Mechanical Packaging Systems Engineering Intern (Summer 2027)",
+      "company": "Foth",
+      "url": "https://jobs.lever.co/foth/c074a997-c723-4c6f-b531-686ef1461c25",
+      "first_seen": "2026-10-01",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
