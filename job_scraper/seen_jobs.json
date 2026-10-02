@@ -2887,6 +2887,76 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback"
+    },
+    "mach-industries-ae-4420631009": {
+      "title": "Summer 2027 Engineering Internship, Aerospace",
+      "company": "Mach Industries",
+      "url": "https://job-boards.greenhouse.io/machindustries/jobs/4420631009",
+      "first_seen": "2026-10-02",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Defense tech startup (autonomous weapons, hypersonics); Huntington Beach CA and Victorville CA; tracks include GNC, Systems Integration, Modeling & Simulation, Test & Analysis, ME; 12-week onsite; US citizen likely required"
+    },
+    "muon-space-gnc-hw-5252677007": {
+      "title": "GNC Hardware Engineering Intern (Summer 2027)",
+      "company": "Muon Space",
+      "url": "https://job-boards.greenhouse.io/muonspace/jobs/5252677007",
+      "first_seen": "2026-10-02",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Space tech company (environmental monitoring satellites); Mountain View CA; GNC hardware intern — own a hardware test project from start to finish; verify Summer 2027 term before applying"
+    },
+    "rtx-me-huntsville-s2027": {
+      "title": "Mechanical Engineering Intern (Summer 2027)",
+      "company": "RTX / Raytheon",
+      "url": "https://simplify.jobs/p/70d314a2-23ce-47d4-8933-ae3c30bdb8f6",
+      "first_seen": "2026-10-02",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Huntsville, AL; posted 2026-09-02; requires active/transferable U.S. government security clearance — verify before applying; confirm canonical URL at careers.rtx.com"
+    },
+    "hadrian-robotics-02e33109": {
+      "title": "Robotics Engineer Intern",
+      "company": "Hadrian Automation",
+      "url": "https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584",
+      "first_seen": "2026-10-02",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Precision manufacturing automation company (CNC for aerospace/defense); Los Angeles CA; graduation Dec 2027–Jun 2028 matches Niko; Fall 2026/Spring 2027/Summer 2027 cohorts available; $50/hr; term labeled as flexible — verify Summer 2027 availability"
+    },
+    "astranis-avionics-4706024006": {
+      "title": "Avionics Intern (Summer 2027)",
+      "company": "Astranis",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4706024006",
+      "first_seen": "2026-10-02",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "GEO satellite startup (San Francisco CA); avionics/EE intern — Niko's KiCad/PCB/STM32 skills relevant; separate from ME role already tracked (astranis-me-summer-2027)"
+    },
+    "hawkeye360-space-4413158009": {
+      "title": "Space Team Intern",
+      "company": "HawkEye 360",
+      "url": "https://job-boards.greenhouse.io/hawkeye360/jobs/4413158009",
+      "first_seen": "2026-10-02",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Commercial SIGINT/RF geolocation satellite company (Herndon VA); space team internship — term and specific engineering track unconfirmed; verify Summer 2027 and ME/AE fit before applying"
+    },
+    "collins-ae-systems-huntsville-2027": {
+      "title": "Summer 2027 Systems Intern (Onsite)",
+      "company": "Collins Aerospace",
+      "url": "https://career.abilityjobs.com/job/summer-2027-systems-internonsite/85833857/",
+      "first_seen": "2026-10-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback",
+      "notes": "Huntsville AL; TCMA team (Tactical, Communications & Maintenance Applications); software-only avionics products in AGILE environment — software-heavy deal-breaker"
     }
   }
 }
