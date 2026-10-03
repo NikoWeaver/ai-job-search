@@ -2906,7 +2906,7 @@
       "fit": "high",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Space tech company (environmental monitoring satellites); Mountain View CA; GNC hardware intern — own a hardware test project from start to finish; verify Summer 2027 term before applying"
+      "notes": "Space tech company (environmental monitoring satellites); Mountain View CA; GNC hardware intern \u2014 own a hardware test project from start to finish; verify Summer 2027 term before applying"
     },
     "rtx-me-huntsville-s2027": {
       "title": "Mechanical Engineering Intern (Summer 2027)",
@@ -2916,7 +2916,7 @@
       "fit": "high",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Huntsville, AL; posted 2026-09-02; requires active/transferable U.S. government security clearance — verify before applying; confirm canonical URL at careers.rtx.com"
+      "notes": "Huntsville, AL; posted 2026-09-02; requires active/transferable U.S. government security clearance \u2014 verify before applying; confirm canonical URL at careers.rtx.com"
     },
     "hadrian-robotics-02e33109": {
       "title": "Robotics Engineer Intern",
@@ -2926,7 +2926,7 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Precision manufacturing automation company (CNC for aerospace/defense); Los Angeles CA; graduation Dec 2027–Jun 2028 matches Niko; Fall 2026/Spring 2027/Summer 2027 cohorts available; $50/hr; term labeled as flexible — verify Summer 2027 availability"
+      "notes": "Precision manufacturing automation company (CNC for aerospace/defense); Los Angeles CA; graduation Dec 2027\u2013Jun 2028 matches Niko; Fall 2026/Spring 2027/Summer 2027 cohorts available; $50/hr; term labeled as flexible \u2014 verify Summer 2027 availability"
     },
     "astranis-avionics-4706024006": {
       "title": "Avionics Intern (Summer 2027)",
@@ -2936,7 +2936,7 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "GEO satellite startup (San Francisco CA); avionics/EE intern — Niko's KiCad/PCB/STM32 skills relevant; separate from ME role already tracked (astranis-me-summer-2027)"
+      "notes": "GEO satellite startup (San Francisco CA); avionics/EE intern \u2014 Niko's KiCad/PCB/STM32 skills relevant; separate from ME role already tracked (astranis-me-summer-2027)"
     },
     "hawkeye360-space-4413158009": {
       "title": "Space Team Intern",
@@ -2946,7 +2946,7 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Commercial SIGINT/RF geolocation satellite company (Herndon VA); space team internship — term and specific engineering track unconfirmed; verify Summer 2027 and ME/AE fit before applying"
+      "notes": "Commercial SIGINT/RF geolocation satellite company (Herndon VA); space team internship \u2014 term and specific engineering track unconfirmed; verify Summer 2027 and ME/AE fit before applying"
     },
     "collins-ae-systems-huntsville-2027": {
       "title": "Summer 2027 Systems Intern (Onsite)",
@@ -2956,7 +2956,43 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback",
-      "notes": "Huntsville AL; TCMA team (Tactical, Communications & Maintenance Applications); software-only avionics products in AGILE environment — software-heavy deal-breaker"
+      "notes": "Huntsville AL; TCMA team (Tactical, Communications & Maintenance Applications); software-only avionics products in AGILE environment \u2014 software-heavy deal-breaker"
+    },
+    "google-hw-intern-bsms-summer2027": {
+      "title": "Hardware Engineering Intern BS/MS Summer 2027",
+      "company": "Google",
+      "url": "https://google.com/about/careers/applications/jobs/results/122803627516404422-hardware-engineering-intern-bsms-summer-2027",
+      "first_seen": "2026-10-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "kairos-power-me-intern-summer2027": {
+      "title": "Mechanical and Manufacturing Engineering Internship Summer 2027",
+      "company": "Kairos Power",
+      "url": "https://www.employbl.com/jobs/mechanical-and-manufacturing-engineering-Kairos-Power-1624538",
+      "first_seen": "2026-10-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "nvidia-research-intern-robotics-summer2027": {
+      "title": "Research Intern, Robotics Summer 2027",
+      "company": "NVIDIA",
+      "url": "https://jobs.anitab.org/companies/nvidia/jobs/94475558-research-intern-robotics-summer-2027",
+      "first_seen": "2026-10-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "stryker-intern-summer2027-cary-il": {
+      "title": "Summer 2027 Internship",
+      "company": "Stryker",
+      "url": "https://illinoisjoblink.illinois.gov/jobs/13695623",
+      "first_seen": "2026-10-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
