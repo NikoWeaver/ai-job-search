@@ -2993,6 +2993,42 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback"
+    },
+    "gm-jr-202619303": {
+      "title": "2027 Summer Manufacturing Intern - Mechanical Engineer",
+      "company": "General Motors",
+      "url": "https://search-careers.gm.com/en/jobs/jr-202619303/2027-summer-manufacturing-intern-mechanical-engineer/",
+      "first_seen": "2026-10-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "gm-jr-202619411": {
+      "title": "2027 Summer Manufacturing Intern - Mechanical Engineer (Batch 2)",
+      "company": "General Motors",
+      "url": "https://search-careers.gm.com/en/jobs/jr-202619411/2027-summer-manufacturing-intern-mechanical-engineer/",
+      "first_seen": "2026-10-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "gm-jr-202619351": {
+      "title": "2027 Summer Intern Manufacturing Engineering - Global Propulsion Systems",
+      "company": "General Motors",
+      "url": "https://search-careers.gm.com/en/jobs/jr-202619351/2027-summer-intern-manufacturing-engineering-global-propulsion-systems/",
+      "first_seen": "2026-10-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "l3harris-fall2027-greenville-1420329300": {
+      "title": "Mechanical Engineer Intern - Fall 2027",
+      "company": "L3Harris Technologies",
+      "url": "https://jobs.l3harris.com/job/Greenville-Mechanical-Engineer-Intern-Fall-2027-TX-75402/1420329300/",
+      "first_seen": "2026-10-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
