@@ -3029,6 +3029,15 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback"
+    },
+    "divergent-5350151008": {
+      "title": "Summer 2027 Engineering Intern",
+      "company": "Divergent",
+      "url": "https://job-boards.greenhouse.io/divergent/jobs/5350151008",
+      "first_seen": "2026-10-05",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
