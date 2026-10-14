@@ -3182,6 +3182,61 @@
       "fit": "high",
       "status": "new",
       "portal": "linkedin-websearch-fallback"
+    },
+    "cambridge-consultants_mechanical-engineering-internship-2027-start": {
+      "title": "Mechanical Engineering Internship (2027 start)",
+      "company": "Cambridge Consultants",
+      "url": "https://applywave.app/visa-sponsorship-jobs/mechanical-engineering-internship-2027-start-cambridge-consultants-limited-seu2uj",
+      "first_seen": "2026-10-14",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "allegion_summer-intern-robotics-technician": {
+      "title": "Summer Intern - Robotics Technician",
+      "company": "Allegion",
+      "url": "https://app.joinhandshake.com/jobs/11392653/share_preview",
+      "first_seen": "2026-10-14",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "unknown-built-in-listing_robotics-engineering-intern": {
+      "title": "Robotics Engineering Intern",
+      "company": "Unknown (Built In listing)",
+      "url": "https://builtin.com/job/robotics-engineering-intern/7596914",
+      "first_seen": "2026-10-14",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "plus_software-engineer-intern-robotics": {
+      "title": "Software Engineer Intern - Robotics",
+      "company": "Plus",
+      "url": "https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db",
+      "first_seen": "2026-10-14",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "google_hardware-engineering-intern-phd-summer-2027": {
+      "title": "Hardware Engineering Intern, PhD, Summer 2027",
+      "company": "Google",
+      "url": "https://google.com/about/careers/applications/jobs/results/97352132356645574-hardware-engineering-intern-phd-summer-2027",
+      "first_seen": "2026-10-14",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
