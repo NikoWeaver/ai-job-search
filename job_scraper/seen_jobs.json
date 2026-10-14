@@ -3237,6 +3237,83 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-websearch-fallback"
+    },
+    "gulfstream-aerospace_summer-2027-completions-mechanical-engineering-college-inter-e5db63": {
+      "title": "Summer 2027 - Completions - Mechanical Engineering College Intern (Appleton, WI)",
+      "company": "Gulfstream Aerospace",
+      "url": "https://careers.gulfstream.com/job/appleton-summer-2027-completions-mechanical-engineering-college-intern-(appleton,-wi)-wi-54911/1424361600",
+      "first_seen": "2026-10-14",
+      "posted_date": "2026-08-28",
+      "deadline": null,
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "cesiumastro_summer-2027-mechanical-engineering-internship": {
+      "title": "Summer 2027 - Mechanical Engineering Internship",
+      "company": "CesiumAstro",
+      "url": "https://www.dice.com/job-detail/0a56b6d6-eb93-4558-aac9-8c58448e76ab",
+      "first_seen": "2026-10-14",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "bsa_mechanical-engineering-summer-2027-internship-denver": {
+      "title": "Mechanical Engineering Summer 2027 Internship - Denver",
+      "company": "BSA",
+      "url": "https://www.dice.com/job-detail/0e5ade22-4259-4410-b0d8-7765c885947b",
+      "first_seen": "2026-10-14",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "imeg_mechanical-engineering-intern": {
+      "title": "Mechanical Engineering Intern",
+      "company": "IMEG",
+      "url": "https://www.dice.com/job-detail/04a0da2c-66e6-44ac-804f-f6f0362ca82f",
+      "first_seen": "2026-10-14",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "elevate-robotics_mechanical-engineer-intern-summer-2026": {
+      "title": "Mechanical Engineer - Intern Summer 2026",
+      "company": "Elevate Robotics",
+      "url": "https://job-boards.greenhouse.io/elevaterobotics/jobs/4139671009",
+      "first_seen": "2026-10-14",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "rugged-robotics_mechanical-engineering-intern-co-op-summer-2026": {
+      "title": "Mechanical Engineering Intern/Co-op (Summer 2026)",
+      "company": "Rugged Robotics",
+      "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4655011005",
+      "first_seen": "2026-10-14",
+      "posted_date": "2026-02-01",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
+    },
+    "agility-robotics_mechanical-engineering-intern-summer-2026": {
+      "title": "Mechanical Engineering Intern (Summer 2026)",
+      "company": "Agility Robotics",
+      "url": "https://resumegeni.com/jobs/mechanical-engineering-intern-agilityrobotics-80fb02c64d",
+      "first_seen": "2026-10-14",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-websearch-fallback"
     }
   }
 }
