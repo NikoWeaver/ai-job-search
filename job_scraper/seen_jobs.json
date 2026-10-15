@@ -3842,6 +3842,39 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-search"
+    },
+    "dell-technologies_csg-hardware-engineering-intern": {
+      "title": "CSG Hardware Engineering Intern",
+      "company": "Dell Technologies",
+      "url": "https://www.linkedin.com/jobs/view/csg-hardware-engineering-intern-at-dell-technologies-4477256282",
+      "first_seen": "2026-10-15",
+      "posted_date": "2026-10-11",
+      "deadline": null,
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "kratos-defense-and-security-solutions_2027-engineering-internships-mach-tb": {
+      "title": "2027 Engineering Internships - MACH TB",
+      "company": "Kratos Defense and Security Solutions",
+      "url": "https://www.linkedin.com/jobs/view/2027-engineering-internships-mach-tb-at-kratos-defense-and-security-solutions-4479597893",
+      "first_seen": "2026-10-15",
+      "posted_date": "2026-10-14",
+      "deadline": null,
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "advanced-sterilization-products_mechanical-engineering-intern": {
+      "title": "Mechanical Engineering Intern",
+      "company": "Advanced Sterilization Products",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-at-advanced-sterilization-products-4479773936",
+      "first_seen": "2026-10-15",
+      "posted_date": "2026-10-15",
+      "deadline": null,
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
     }
   }
 }
