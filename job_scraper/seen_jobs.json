@@ -4018,6 +4018,72 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-search"
+    },
+    "hawaiian-electric_summer-intern-mechanical-engineer-oahu": {
+      "title": "Summer Intern - Mechanical Engineer - Oahu",
+      "company": "Hawaiian Electric",
+      "url": "https://www.linkedin.com/jobs/view/summer-intern-mechanical-engineer-oahu-at-hawaiian-electric-4474001536",
+      "first_seen": "2026-10-20",
+      "posted_date": "2026-10-07",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "stratolaunch_engineering-intern-summer-2027": {
+      "title": "Engineering Intern Summer 2027",
+      "company": "Stratolaunch",
+      "url": "https://www.linkedin.com/jobs/view/engineering-intern-summer-2027-at-stratolaunch-4480299519",
+      "first_seen": "2026-10-20",
+      "posted_date": "2026-10-20",
+      "deadline": "2026-11-07",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "mitre_autonomous-systems-intern": {
+      "title": "Autonomous Systems Intern",
+      "company": "MITRE",
+      "url": "https://www.linkedin.com/jobs/view/autonomous-systems-intern-at-mitre-4481298297",
+      "first_seen": "2026-10-20",
+      "posted_date": "2026-10-19",
+      "deadline": null,
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "symbotic_intern-robot-manipulation": {
+      "title": "Intern- Robot Manipulation",
+      "company": "Symbotic",
+      "url": "https://www.linkedin.com/jobs/view/intern-robot-manipulation-at-symbotic-4481276979",
+      "first_seen": "2026-10-20",
+      "posted_date": "2026-10-19",
+      "deadline": null,
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "hewlett-packard-enterprise_hardware-engineering-design-intern": {
+      "title": "Hardware Engineering Design Intern",
+      "company": "Hewlett Packard Enterprise",
+      "url": "https://www.linkedin.com/jobs/view/hardware-engineering-design-intern-at-hewlett-packard-enterprise-4481522628",
+      "first_seen": "2026-10-20",
+      "posted_date": "2026-10-20",
+      "deadline": null,
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "leidos_electrical-hardware-design-engineering-intern": {
+      "title": "Electrical Hardware Design Engineering Intern",
+      "company": "Leidos",
+      "url": "https://www.linkedin.com/jobs/view/electrical-hardware-design-engineering-intern-at-leidos-4478601334",
+      "first_seen": "2026-10-20",
+      "posted_date": "2026-10-19",
+      "deadline": null,
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
     }
   }
 }
