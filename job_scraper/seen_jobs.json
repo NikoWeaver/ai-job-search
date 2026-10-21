@@ -4084,6 +4084,61 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-search"
+    },
+    "los-alamos-national-laboratory_robotics-automation-intern-undergraduate": {
+      "title": "Robotics & Automation Intern - Undergraduate",
+      "company": "Los Alamos National Laboratory",
+      "url": "https://www.linkedin.com/jobs/view/robotics-automation-intern-undergraduate-at-los-alamos-national-laboratory-4481501574",
+      "first_seen": "2026-10-21",
+      "posted_date": "2026-10-20",
+      "deadline": "2027-01-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "sensata-technologies_mechanical-engineer-intern-aerospace-summer-2027": {
+      "title": "Mechanical Engineer Intern (Aerospace) - Summer 2027",
+      "company": "Sensata Technologies",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-intern-aerospace-summer-2027-at-sensata-technologies-4468289622",
+      "first_seen": "2026-10-21",
+      "posted_date": "2026-10-08",
+      "deadline": null,
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "wsp-in-the-u-s_mechanical-engineering-transmission-intern-summer-2027": {
+      "title": "Mechanical Engineering (Transmission) Intern - Summer 2027",
+      "company": "WSP in the U.S.",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-transmission-intern-summer-2027-at-wsp-in-the-u-s-4463117776",
+      "first_seen": "2026-10-21",
+      "posted_date": "2026-10-17",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "stryker_summer-2027-internship-mechanical-engineering-california": {
+      "title": "Summer 2027 Internship - Mechanical Engineering - California",
+      "company": "Stryker",
+      "url": "https://www.linkedin.com/jobs/view/summer-2027-internship-mechanical-engineering-california-at-stryker-4480207700",
+      "first_seen": "2026-10-21",
+      "posted_date": "2026-10-19",
+      "deadline": null,
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "ge-aerospace_systems-engineering-intern-mechanical-aerospace-engineering-d47c2a": {
+      "title": "Systems Engineering Intern - Mechanical/Aerospace Engineering (Electric Power) - US - Summer 2027",
+      "company": "GE Aerospace",
+      "url": "https://www.linkedin.com/jobs/view/systems-engineering-intern-mechanical-aerospace-engineering-electric-power-us-summer-2027-at-ge-aerospace-4455232655",
+      "first_seen": "2026-10-21",
+      "posted_date": "2026-10-20",
+      "deadline": null,
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
     }
   }
 }
