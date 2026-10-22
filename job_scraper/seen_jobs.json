@@ -4139,6 +4139,50 @@
       "fit": "high",
       "status": "new",
       "portal": "linkedin-search"
+    },
+    "cytiva_mechanical-engineering-intern-summer-2027": {
+      "title": "Mechanical Engineering Intern Summer 2027",
+      "company": "Cytiva",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-summer-2027-at-cytiva-4462565576",
+      "first_seen": "2026-10-22",
+      "posted_date": "2026-10-22",
+      "deadline": null,
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "cesiumastro_summer-2027-systems-engineering-internship": {
+      "title": "Summer 2027 - Systems Engineering Internship",
+      "company": "CesiumAstro",
+      "url": "https://www.linkedin.com/jobs/view/summer-2027-systems-engineering-internship-at-cesiumastro-4472219438",
+      "first_seen": "2026-10-22",
+      "posted_date": "2026-10-17",
+      "deadline": null,
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "raytheon_digital-design-electrical-engineer-intern-summer-2027-onsite": {
+      "title": "Digital Design Electrical Engineer Intern (Summer 2027)(Onsite)",
+      "company": "Raytheon",
+      "url": "https://www.linkedin.com/jobs/view/digital-design-electrical-engineer-intern-summer-2027-onsite-at-raytheon-4463598325",
+      "first_seen": "2026-10-22",
+      "posted_date": "2026-10-21",
+      "deadline": null,
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "celestica_student-intern-hardware-design-engineering": {
+      "title": "Student Intern, Hardware Design Engineering",
+      "company": "Celestica",
+      "url": "https://www.linkedin.com/jobs/view/student-intern-hardware-design-engineering-at-celestica-4471949897",
+      "first_seen": "2026-10-22",
+      "posted_date": "2026-10-21",
+      "deadline": null,
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
     }
   }
 }
