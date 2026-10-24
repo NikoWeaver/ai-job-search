@@ -4216,6 +4216,61 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-search"
+    },
+    "scrap-labs_mechanical-engineering-intern-machine-design-spring-2027": {
+      "title": "Mechanical Engineering Intern, Machine Design (Spring 2027)",
+      "company": "Scrap Labs",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-machine-design-spring-2027-at-scrap-labs-4483305498",
+      "first_seen": "2026-10-24",
+      "posted_date": "2026-10-24",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "jacobs_mechanical-engineering-intern-energy-power-summer-2027": {
+      "title": "Mechanical Engineering Intern (Energy/Power) - Summer 2027",
+      "company": "Jacobs",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-energy-power-summer-2027-at-jacobs-4474542623",
+      "first_seen": "2026-10-24",
+      "posted_date": "2026-10-23",
+      "deadline": null,
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "trace_robotics-engineering-intern-hardware-software": {
+      "title": "Robotics Engineering Intern — Hardware & Software",
+      "company": "Trace",
+      "url": "https://www.linkedin.com/jobs/view/robotics-engineering-intern-%E2%80%94-hardware-software-at-trace-4483187798",
+      "first_seen": "2026-10-24",
+      "posted_date": "2026-10-24",
+      "deadline": null,
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "simbe_robot-software-engineer-intern-spring-summer-2027": {
+      "title": "Robot Software Engineer Intern — Spring & Summer 2027",
+      "company": "Simbe",
+      "url": "https://www.linkedin.com/jobs/view/robot-software-engineer-intern-%E2%80%94-spring-summer-2027-at-simbe-4483112223",
+      "first_seen": "2026-10-24",
+      "posted_date": "2026-10-23",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "openshelf_robotics-software-engineer-intern": {
+      "title": "Robotics Software Engineer Intern",
+      "company": "OPENSHELF",
+      "url": "https://www.linkedin.com/jobs/view/robotics-software-engineer-intern-at-openshelf-4483117262",
+      "first_seen": "2026-10-24",
+      "posted_date": "2026-10-23",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
     }
   }
 }
