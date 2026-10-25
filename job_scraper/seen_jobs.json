@@ -4271,6 +4271,28 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-search"
+    },
+    "graco_mechanical-engineering-intern": {
+      "title": "Mechanical Engineering Intern",
+      "company": "Graco",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-at-graco-4463907629",
+      "first_seen": "2026-10-25",
+      "posted_date": "2026-10-24",
+      "deadline": null,
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "elveo_engineering-internship": {
+      "title": "Engineering Internship",
+      "company": "Elveo",
+      "url": "https://www.linkedin.com/jobs/view/engineering-internship-at-elveo-4466415978",
+      "first_seen": "2026-10-25",
+      "posted_date": "2026-10-25",
+      "deadline": null,
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
     }
   }
 }
