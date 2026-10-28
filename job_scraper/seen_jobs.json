@@ -4326,6 +4326,50 @@
       "fit": "low",
       "status": "skipped",
       "portal": "linkedin-search"
+    },
+    "caci-international-inc_aerospace-engineer-intern-summer-2027": {
+      "title": "Aerospace Engineer Intern - Summer 2027",
+      "company": "CACI International Inc",
+      "url": "https://www.linkedin.com/jobs/view/aerospace-engineer-intern-summer-2027-at-caci-international-inc-4477776728",
+      "first_seen": "2026-10-28",
+      "posted_date": "2026-10-27",
+      "deadline": null,
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "astrion_engineering-directorate-support-intern": {
+      "title": "Engineering Directorate Support Intern",
+      "company": "Astrion",
+      "url": "https://www.linkedin.com/jobs/view/engineering-directorate-support-intern-at-astrion-4461657482",
+      "first_seen": "2026-10-28",
+      "posted_date": "2026-10-17",
+      "deadline": null,
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "northrop-grumman_2027-mechanical-engineering-intern-clearfield-ut": {
+      "title": "2027 Mechanical Engineering Intern - Clearfield UT",
+      "company": "Northrop Grumman",
+      "url": "https://www.linkedin.com/jobs/view/2027-mechanical-engineering-intern-clearfield-ut-at-northrop-grumman-4484278290",
+      "first_seen": "2026-10-28",
+      "posted_date": "2026-10-27",
+      "deadline": null,
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "av_mechanical-engineering-intern-space-technologies": {
+      "title": "Mechanical Engineering Intern - Space Technologies",
+      "company": "AV",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-engineering-intern-space-technologies-at-av-4484425081",
+      "first_seen": "2026-10-28",
+      "posted_date": "2026-10-28",
+      "deadline": null,
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
     }
   }
 }
