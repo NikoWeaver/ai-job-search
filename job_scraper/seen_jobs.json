@@ -4414,6 +4414,39 @@
       "fit": "medium",
       "status": "new",
       "portal": "linkedin-search"
+    },
+    "rockwell-automation_intern-electrical-engineering": {
+      "title": "Intern, Electrical Engineering",
+      "company": "Rockwell Automation",
+      "url": "https://www.linkedin.com/jobs/view/intern-electrical-engineering-at-rockwell-automation-4484567843",
+      "first_seen": "2026-10-30",
+      "posted_date": "2026-10-29",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "heart-aerospace_mechanical-design-intern-mechanical-systems": {
+      "title": "Mechanical Design Intern, Mechanical Systems",
+      "company": "Heart Aerospace",
+      "url": "https://www.linkedin.com/jobs/view/mechanical-design-intern-mechanical-systems-at-heart-aerospace-4485254413",
+      "first_seen": "2026-10-30",
+      "posted_date": "2026-10-29",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "parker-hannifin_engineer-intern-military-flight-controls-division": {
+      "title": "Engineer Intern - Military Flight Controls Division",
+      "company": "Parker Hannifin",
+      "url": "https://www.linkedin.com/jobs/view/engineer-intern-military-flight-controls-division-at-parker-hannifin-4485242474",
+      "first_seen": "2026-10-30",
+      "posted_date": "2026-10-29",
+      "deadline": null,
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
     }
   }
 }
